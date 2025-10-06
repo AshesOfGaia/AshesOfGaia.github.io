@@ -3,7 +3,7 @@ title: Action Tables
 description: List of all available actions in combat
 date: 2025-10-05 20:00:00 +0600
 categories: [Core Rules, Combat]
-tags: [actions]
+tags: [actions, combat]
 pin: true
 ---
 

@@ -1,0 +1,236 @@
+---
+title: Action Tables
+description: List of all available actions in combat
+date: 2025-10-05 20:00:00 +0600
+categories: [Core Rules, Combat]
+tags: [actions]     # TAG names should always be lowercase
+pin: true
+---
+<html>
+<head>
+  <style>
+    table td {word-wrap:break-word;}
+  </style>
+</head>
+<body>
+
+<div class="action-tables">
+{% capture markdown_content %}
+<h1> ACTION TABLES </h1>
+[Back to Main Page](./)
+
+<h2> Normal Actions </h2>
+YOU HAVE TWO ACTION TO USE EACH ROUND OF TURN ORGANISED TIME. YOU CAN USE THOSE ACTIONS ONLY IN YOUR TURN, NOT OUTSIDE OF IT.
+
+<table> 
+  <thead>
+    <tr> 
+      <th> ACTION NAME </th>
+      <th style="text-align: center; vertical-align: middle;"> ACTION COST </th>
+      <th> DESCRIPTION </th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> ATTACK </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 ACTION </td>
+      <td> YOU MAKE A SINGLE ATTACK IN A TURN. </td>
+    </tr>
+    <tr> 
+      <td> MULTI ATTACK </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU CAN MAKE UP TO TWO THREE ATTACKS. FIRST ATTACK IS DONE WITHOUT ANY ADDITIONAL MODIFIERS, SECOND ATTACK SUFFER -30 MODIFIER ON TOP OF ANY OTHER MODIFIERS, THIRD ATTACK SUFFER -60 MODIFIER ON TOP OF ANY OTHERS MODIFIER. ADDITIONALLY, WHICH EVERY NEXT ATTACK, A CRITICAL FAILURE CHANCE RAISE AS FOLLOW: 1ST ATTACK = 96-100, 2ND ATTACK = 91-100, 3RD ATTACK = 86-100. </td>
+    </tr>
+    <tr> 
+      <td> RETREAT </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU CAN REATREAT FROM COMBAT WITHOUT PROVOKING OPPORTUNITY ATTACK, MOVING UP TO HALF OF YOUR MOVEMENT. </td>
+    </tr>
+    <tr> 
+      <td> MOVE </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 ACTION </td>
+      <td> YOU CAN MOVE UP TO HALF OF YOUR CURRENT MOVEMENT </td>
+    </tr>
+    <tr> 
+      <td> CHARGE </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU NEED TO HAVE AT LEAST 6 METERS OF SPACE BETWEEN YOU AND YOUR ENEMY. ON SUCCESS, THIS ATTACK DEAL DOUBLE THE DAMAGE MODIFIER TO THE TARGET ON TOP OF STANDARD WEAPON OR UNARMED DAMAGE MODIFIER. </td>
+    </tr>
+    <tr> 
+      <td> GETTING UP / GETTING ON BIKE / GETTING IN/OUT CAR </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 ACTION </td>
+      <td> SELF EXPLENATORY </td>
+    </tr>
+    <tr> 
+      <td> AIM </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 ACTION </td>
+      <td> YOU GET +5 FOR EVERY ACTION SPEND ON AIMING, STACK UP TO +10 </td>
+    </tr>
+    <tr> 
+      <td> RUN </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTION </td>
+      <td> YOU CAN MOVE UP TO FULL MOVEMENT </td>
+    </tr>
+    <tr> 
+      <td> PUSH </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> OPPOSED STRENGTH TEST TO PUSH ENEMY BACK.ON NORMAL SUCCESS - 2 METERS, HARD - 4 METERS, EXTREME - 6 METERS. TARGET OF PUSH, AT FAILED STR CHECK, ADDITIONALLY NEED TO MAKE A DEX CHECK GET PRONE ON THE GROUND. </td>
+    </tr>
+    <tr>
+      <td> ALL OUT ATTACK </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU ADD +30 TO YOUR ATTACK MODIFIER, BUT SUFFER -30 PENALTY TO PARRY OR DODGE. IT CAN BE A SINGLE OR MULTI ATTACK, DEPENDING ON YOUR CHOICE. MODIFIER FOR MULTI ATTACK APPLY AS NORMAL </td>
+    </tr>
+    <tr>
+      <td> CALLED SHOT/ATTACK </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU SUFFER -20 MOFIDIER TO ATTACKS MADE FOR A SPECIFIC LOCATION OF YOUR CHOICE. YOU CAN STILL ATTEMPT MORE THAN ONE ATTACK IN A TURN, BUT NEGATIVE MODIFIER ARE CUMULATIVE. FIRST ATTACK IS MADE WITH -20 MODIFIER, SECOND WITH -50 MODIFIER AND THIRD WITH -80 MODIFIER. 
+    </tr>
+    <tr>
+      <td> DELAY </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> PLAYER CAN CHOOSE TO DELAY THEIR TURN UNTIL LATER IN TURN ORDER. PLAYER NEED TO A SPECIFIC SITUATION IN SHICH HIS CHARACTER TAKE HIS TURN. EXAMPLE: PLAYER DECIDE TO WAIT WITH HIS TURN AND READIED CROSSBOW UNTIL HE SEE SOMEBODY  WALKING UP THE STAIRS, WHILE AT THE SAME TIME REST OF THE PARTY IS LOOTING A ROOM NEXT TO HIM. IF SITUATION THAT CHARACTER DESCRIBED WOULDNT HAPPEN IN GIVEN ROUND, HE IS LOOSING HIS TURN AND TURN ORDER START ANEW.</td>
+    </tr>
+    <tr>
+      <td> STUN </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU DECLARE ATTACK TO STUN BEFORE MAKING AN ATTACK ROLL. YOU MAKE AN ATTACK ROLL WITH -20 MODIFIER AS IN CALLAED SHOT ACTION, TO HIT HEAD. IF SUCCESUFLL, ENEMY MAKE A CONSTITUTION CHECK AND ON FAIL, HE IS STUNNED FOR AMOUNT OF TURNS EQUAL TO THE DAMAGE ROLL ON WEAPON USED TO STUN OPPONENT, DIVIDED BY 2, AND ROUND DOWN, MINUS TARGET BUILD MODIFIER. STUNNED CHARACTER SUFFER A PENALTY OF -30 TO ANY ROLL FOR THE AMOUNT OF TURNS EQUAL TO DAMAGE DONE BY THE WEAPON. </td>
+    </tr>
+    <tr>
+      <td> Grapple </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU CAN ATTEMPT TO GRAPPLE ENEMY DURING COMBAT OR OUTSIDE OF IT. TO DO IT YOU NEED TO STAND NEXT TO TARGET, AND THEN ROLL FOR GRAPPLE SKILL AND COMPARE DEGREE OF SUCCESS AGAINST TARGET GRAPPLE SKILL CHECK. ATTACKER REQUIRE HIGHER DEGREE OF SUCCESS THAN DEFENDER TO SUCCEED ON GRAPLE CHECK. OTHERWISE, CHARACTER TO BE GRAPPLED MAY ATTEMPT TO USE DODGE TO GET OUTSIDE OF GRAPLING DISTANCE OFF THE ATTACKER. IN THIS CASE, DEFENDER NEED EQUAL DEGREE OF SUCCESS ON DODGE IN COREPSPOINGING GRAPLE AND DODHE CHECK. IF YOU SUCCED ON GRAPLE CHECK, YOU SPEND TWO OF YOUR ACTION. IF YOU FAIL, YOU SPEND ONLY ONE ACTION AND CANNOT TRY TO USE GRAPLE IN THE SAME ROUND OF COMBAT.
+      <table>
+        <tbody>
+          <tr>
+            <td> ESCAPE </td>
+            <td style="text-align: center; vertical-align: middle;"> 1 ACTION </td>
+            <td> ON HIGHER SUCCESS ON OPPOSSED ROLL, YOU ARE FREE FROM GRAPPLE. </td>
+          </tr>
+          <tr>
+            <td> THROW </td>
+            <td style="text-align: center; vertical-align: middle;"> 1 ACTION </td>
+            <td>OPPONENT IS KNOCKED TO THE GROUND, TAKING 1D6+DM DMG IGNORING ARMOR. </td>
+          </tr>
+          <tr> 
+            <td> HOLD </td>
+            <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+            <td> FOE IS IMMOBILIZED UNTIL AN ESCAPE IS MADE. </td>
+          </tr>
+          <tr>
+            <td> CHOKE </td>
+            <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+            <td> OPPONENTS TAKES 1D6 DMG PER TURN IGNORING ARMOR </td>
+          </tr>
+        </tbody>
+      </table>
+      GRAPPLED CAN TAKE ONLY ONE ACTION PER TURN SPEND BEING GRAPPLED AND CAN AITHER FOLLOW ACTIONS AS NORMAL, OR TRY TO MAKE AN ESCAPE ROLL. IF CHARACTER DECIDE TO TAKE ANY OTHER ACTION THAN TRYING TO ESCAPE A GRAPPLE, THE HE SUFFER A -30 PENALTY TO ALL ACTIONS TAKEN. TO CLARIFY, CHARACTER STILL CAN MAKE AN ATTACKS AGAINST THE PERSON GRAPPLING HIM WITH STATED EALIER MODIFIER, BUT ONLY WHEN THE CHARACTER HOLD A SMALL ARMS RANGE WEAPON OR SHORT MELEE WEAPON OR USING UNARMED ATTACKS. </td>
+    </tr>
+    <tr>
+      <td> KNOCK DOWN </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 ACTION </td>
+      <td> YOU NEED TO USE UNARMED ATTACK OR USE MELEE / RANGE WEAPON TO MAKE A PHYSICAL ATTACK TO THE TARGET. YOU MAKE A CHOOSEN WEAPON SKILL ATTACK AGAINST TARGET STANDING NEXT TO YOU WITH MODIFIER OF -20 COMPARED AGAINST TARGET STR CHECK. ATTACKER WIN DRAW. ON FAIL, TARGET IS CONSIDERED PRONE. KNOCKDOWN MAY BE ATTEMPTED AS A PART OF MULTIATTACK. </td>
+    </tr>
+    <tr>
+      <td> DEFENSIVE STANCE
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> UNTIL THE END OF CURRENT TURN, YOU GAIN ADDITIONAL REACTION TO SPEND AS YOU WISH, BUT YOU FORFEIT POSSIBLITY OF MAKING ATTACKS. </td>
+    </tr>
+    <tr>
+      <td> USE SKILL / TALENT </td>
+      <td style="text-align: center; vertical-align: middle;"> VARIES </td>
+      <td> YOU CAN TRY AND USE ONE OF YOUR SKILL IN A COMBAT, OR ANY SPECIAL MANUEVER GRANTED TO YOU BY PURCHASED TALENT. THIS MAY BE ALSO CONSIDERED AS GIVING SPEACH TO ENEMIES SO THEY SURRENDER AND SO ON. </td>
+    </tr>
+    <tr>
+      <td> SUPRESSING FIRE </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU CAN SPEND TWO ACTIONS TO LAY DOWN A WALL OF FIRE UPON YOUR ENEMIES AND FORCE THEM TO FIND A COVER. YOU MAKE ONE ATTACK ROLL WITH MODIFIERS OF EITHER SEMI-AUTO BURST OR FULL-AUTO SHOT OF YOUR WEAPON, AND SPEND AS MUCH AMUNITION.  ALL ENEMY IN FRONT OF YOU, IN 45° ARC, NEED TO MAKE AN WILLPOWER TEST. IF YOU USED SEMI-AUTO BURST, YOU THEY NEED TO PASS NORMAL WILLPOWER CHECK. IF FULL-AUTO THEY NEED TO PASS HARD WILLPOWER CHECK. </td>
+    </tr>
+    <tr>
+      <td> TACTICAL ADVANCE </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU SWIFTLY MOVE FROM COVER TO COVER, PUTTING AS MANY ITEMS ON THE WAY OF POTENTIAL FIRE POINTED AT YOU. YOU SPEND TWO ACTIONS AND MOVE HALF OF YOUR MOVEMENT RATE, WHILE ENEMY GETS -30 TO ATTACKING YOU THIS TURN. </td>
+    </tr>
+    <tr>
+      <td> OVERWATCH </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU SPEND TWO ACTIONS TO SET A SPECIFIC DIRECTION ON WHICH YOU FOCUS YOUR FULL ATTENTION. WHEN ENEMY WALK INTO YOUR POINT OF VIEW, YOU CAN MAKE AN ATTACK AGAINST HIM OUTSIDE OF STANDARD TURN ORDER. AFTER MAKING THAT ATTACK, NOT MATTER IF IT WAS SUCCESSFULL OR NOT, OVERWATCH ENDS. ONLY AFTER THAT ATTACK, ENEMY CAN MAKE THEIR FIRST MOVE. WHILE IN OVERWATH POSITION, YOUR CANNOT USE REACTIONS. IF COMBAT BEGINS, WHILE ENEMY DIDNT GET INTO YOUR OVERWATCH ZONE, AND YOU WANNA TAKE PART IN COMBAT TURN LEAVING YOUR OVERWATCH POSITION, YOU BEGIN YOUR ROUND WITH ONE ACTION INSTEAD OF STANDARD TWO AND NO RACTION. </td>
+    </tr>
+    <tr>
+      <td> BRACE </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 ACTION </td>
+      <td> YOU ASSUME EITHER POSITION OR FIND A PIECE OF SOLID GROUND/FENCE/CRATE TO SUPPOURT THE BULK OF YOUR WEAPON BEFORE FIRING IT. YOU DO NOT SUFFER -30 FOR SHOOTING UNBRACED WEAPON WITHOUT FULLFILING STRENGTH REQUIRMENTS. COST ONE ACTION. </td>
+    </tr>
+    <tr> 
+      <td> PICK A WEAPON </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 ACTION </td>
+      <td> DURING COMBAT YOU CAN USE ACTION TO PICK A SINGLE WEAPON CARRIED ON YOURSELF IN EASLY ACCESSABLE PLACE LIKE SCABARD HANGING TO YOUR BELT, OR LYING ON THE GROUND NEXT TO YOUR CHARACTER. </td>
+    </tr>
+    <tr> 
+      <td> UNJAMMING WEAPON </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 ACTION </td>
+      <td> AFTER WEAPON HAVE JAMMED YOU NEED TO SPEND ACTION AND MAKE A SUCCESSFULL WEAPON SKILL CHECK TO UNJAMM IT. THIS ACTION CAN BE TAKEN TWICE A TURN UNTIL WEAPON GET UNJAMMED. </td>
+    </tr>
+    <tr>
+      <td> USE THE SOURCE </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 OR 2 ACTIONS </td>
+      <td> ARCANIST ONLY. ARCANIST WAVE  THE SOURCE IN THE THE REALITY CHANGING EFFECTS, USING A SINGLE ACTION TO WEAVE UP TO THEIR CURRENT MAXIMUM SOURCE POINTS LIMIT OR USE A DOUBLE ACTION TO WEAVE SOURCE EQUAL TO ABOVE THE CURRENT SOURCE POINTS LIMIT. </td>
+    </tr>
+    <tr>
+      <td> DISENGAGE </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 ACTIONS </td>
+      <td> YOU BREAK FROM A MELEE COMBAT WITHOUT INCURRING OPPOURTINITY ATTACK AND MOVE UP TO HALF OF YOUR MOVEMENT STAT. </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2> Reactions </h2>
+YOU HAVE TWO RACTIONS TO USE EACH ROUND OF TURN ORGANISED TIME. YOU CAN USE REACTION ONLY OUTSIDE OF YOUR OWN TURN.
+
+<table> 
+  <thead>
+    <tr> 
+      <th> REACTION NAME </th>
+      <th style="text-align: center; vertical-align: middle;"> ACTION COST </th>
+      <th> DESCRIPTION </th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> DODGE </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 REACTION </td>
+      <td> YOU ATTEMPT TO EVADE SINGLE INCOMING ATTACK POINTED AT YOU. ON SUCCESS OF DEGREE EQUAL TO THE DEGREE OF AN ATTACK MADE, YOU SUFFER NO HIT. </td>
+    </tr>
+    <tr>
+      <td> REPOSITION </td>
+      <td style="text-align: center; vertical-align: middle;"> 2 REACTIONS </td>
+      <td> YOU NOT ONLY ATTEMPT TO DODGE INCOMING ATTACK, BUT ALSO MOVE OUT OF THE DANGEROUS SITUATION AND MAKE SPACE BETWEEN YOUR AND POTENTIAL ATTACKERS. YOU NEED TO MAKE A SUCCESSFULL DODGE CHECK OF ONE DEGREE HIGHER THAN INCOMING ATTACK. ON SUCCESS YOU DO NOT GET HIT AND MOVE UP TO 2 SQUARE AWAY FROM POTENTIAL ATTACKER IN ANY DIRECTION, AS LONG AS ITS NOT BLOCKED BY ENVIROMENT OR OTHER CHARACTER. </td>
+    </tr>
+    <tr>
+      <td> PARRY </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 REACTION </td>
+      <td> YOU NOT ONLY ATTEMPT TO DODGE INCOMING ATTACK, BUT ALSO MOVE OUT OF THE DANGEROUS SITUATION AND MAKE SPACE BETWEEN YOUR AND POTENTIAL ATTACKERS. YOU NEED TO MAKE A SUCCESSFULL DODGE CHECK OF ONE DEGREE HIGHER THAN INCOMING ATTACK. ON SUCCESS YOU DO NOT GET HIT AND MOVE UP TO 2 SQUARE AWAY FROM POTENTIAL ATTACKER IN ANY DIRECTION, AS LONG AS ITS NOT BLOCKED BY ENVIROMENT OR OTHER CHARACTER. </td>
+    </tr>
+    <tr>
+      <td> COUNTER ATTACK </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 REACTION </td>
+      <td> WHEN ENEMY MISS YOU WITH A MELEE ATTACK, YOU CAN MAKE SINGLE ATTACK AS YOU REACTION WITH -20 MODIFIER AGAINST THAT ATTACKER. THIS MAY BE A MELEE OR RANGE ATTACK, AS LONG AS YOU ARE IN MELEE COMBAT. </td>
+    </tr>
+    <tr>
+      <td> USE THE SOURCE </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 REACTION </td>
+      <td> ARCANIST ONLY. YOU CAN USE A DEFEND SPELL OF CHOICE, WITH COST UP TO HALF OF YOUR CURRENT MAGIC POINTS. </td>
+    </tr>
+    <tr>
+      <td> OPPORTUNITY ATTACK </td>
+      <td style="text-align: center; vertical-align: middle;"> 1 REACTION </td>
+      <td> WHENEVER ENEMY TRY TO MOVE AWAY FROM YOUR REACH IN MELEE COMBAT, WITHOUT USE OF DISANGAGE ACTION, YOU MAY MAKE A SINGLE ATTACK AGAINST HIM WITHOUT ANY NEGATIVE MODIFIER FROM AMOUNT OF ATTACKS MADE IN GIVEN TURN. </td>
+    </tr>
+  </tbody>
+</table>
+
+{% endcapture %}
+{{ markdown_content | markdownify }}
+</div>
+</body>
+</html>
