@@ -1,0 +1,31 @@
+---
+title: Weapon and Armor Tables
+description: List of all available weapons and armors
+date: 2025-10-07 20:00:00 +0600
+categories: [Core Rules, Combat, Equipment]
+tags: [combat, equipment]
+pin: true
+---
+
+<style>
+.markdown-table td {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+</style>
+
+[Back to Main Page](/)
+
+## Weapons Table
+
+**CONVENTIONAL:** Conventional Weapons represent the broadest and most enduring category of ranged armaments, encompassing everything from modern automatic rifles and precision sniper systems to classic revolvers and bolt-action rifles of earlier centuries. What unites them is their reliance on chemical propellants—typically gunpowder or advanced synthetic charges—to fire solid projectiles through explosive expansion and pressure.
+
+These weapons vary widely in design, sophistication, and purpose: from rugged, old-world firearms passed down through generations to state-of-the-art assault systems integrating cutting-edge materials, smart optics, and stabilized recoil mechanics. Despite the rise of energy and magnetic weaponry, conventional firearms remain reliable, versatile, and easy to maintain, making them a staple for soldiers, mercenaries, and survivalists alike.
+
+Their power lies in simplicity—mechanical precision and chemical energy working in harmony to deliver deadly results. In a universe of complex technologies, conventional weapons endure as a timeless testament to efficiency, adaptability, and lethal practicality.
+
+<div class="markdown-table" markdown="1">
+
+| SYBTYPE    |          CATEGORY           | NAME                                                                                                                                                                                              | DAMAGE                                                                                     | DAMAGE TYPE                                                                                                                        |
+| ---------- | :-------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| SMALL ARMS | HANDGUN <br><br> SUBMACHINE | REVOLVER P.T 310 <br><br> REVOLVER STRIKER 404 <br><br> PISTOL HARRIS P8 <br><br> PISTOL DELMAR R9 <br><br> PISTOL KRZ-21 "HORNET" <br><br> PISTOL NASH X-17 <br><br> PISTOL "PREACHER" M182 <br> | 1D10+2 <br><br> 1D10+2 <br><br> 2D6 <br><br> 1D10 <br><br> 1D8 <br><br> 1D10 <br><br> 1D10 | <BR> PIERCING <br><br> PIERCING <br><br> PIERCING <br><br> PIERCING <br><br> PIERCING <br><br> PIERCING <br><br> PIERCING <br><br> |
