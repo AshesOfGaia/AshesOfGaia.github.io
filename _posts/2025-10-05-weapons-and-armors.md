@@ -16,6 +16,8 @@ pin: true
 
 [Back to Main Page](/)
 
+<div class="markdown-table" markdown="1">
+
 ## Weapons Qualities
 
 |     Quality     |                                                                                                                                                                                                                                        Description                                                                                                                                                                                                                                        |
