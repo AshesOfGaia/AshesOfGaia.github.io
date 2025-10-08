@@ -72,6 +72,7 @@ Their power lies in simplicity—mechanical precision and chemical energy workin
 | Pistol M182 "Preacher" |  1d10  |  Piercing   |  25m  |  Yes   |  1H   | 1 Action  | 1 (0) / 3 (+10) / 10 (+20) | 17 Standard | 99-100 |   1    | 100cr |   Trusted   |
 
 ### Small Arms - Submachine
+
 |        Name        | Damage | Damage Type | Range | Impale | 1H/2H |  Reload  |            ROF             |     Mag     |  Jam   | Weight | Price |        Qualities        |
 | :----------------: | :----: | :---------: | :---: | :----: | :---: | :------: | :------------------------: | :---------: | :----: | :----: | :---: | :---------------------: |
 | Submachine F.A.P.3 |  1d10  |  Piercing   |  50m  |  Yes   |  1H   | 1 Action | 1 (0) / 5 (+10) / 10 (+20) | 25 Standard | 96-100 |   7    | 250cr |         Trusted         |
@@ -82,6 +83,7 @@ Their power lies in simplicity—mechanical precision and chemical energy workin
 | Submachine TTK-11  |  1d10  |  Piercing   |  75m  |  Yes   |  1H   | 1 Action | 1 (0) / 5 (+10) / 10 (+20) | 25 Standard | 95-100 |   5    | 200cr |         Trusted         |
 
 ### Long Arms - Shotgun
+
 |             Name             |  Damage   | Damage Type | Range | Impale | 1H/2H |  Reload   |        ROF        |     Mag     |  Jam   | Weight | Price |          Qualities          |
 | :--------------------------: | :-------: | :---------: | :---: | :----: | :---: | :-------: | :---------------: | :---------: | :----: | :----: | :---: | :-------------------------: |
 | PUMP ACTION P.A. 60 12-GAUGE | 3d6 / 2d6 |  Piercing   |  25m  |   No   |  2H   | 2 Actions |      1 (+20)      | 7 Standard  |  100   |   8    | 20cr  | Trusted / Dispersion / Slug |
@@ -93,6 +95,7 @@ Their power lies in simplicity—mechanical precision and chemical energy workin
 |       A.A. 32 12-GAUGE       | 3d6 / 2d6 |  Piercing   |  25m  |   No   |  2H   | 1 Action  | 1 (+20) / 4 (+20) | 12 Standard | 97-100 |   11   | 80cr  | Trusted / Dispersion / Slug |
 
 ### Long Arms - Rifle
+
 |             Name              | Damage | Damage Type | Range | Impale | 1H/2H |  Reload   |             ROF             |     Mag     |  Jam   | Weight | Price |          Qualities          |
 | :---------------------------: | :----: | :---------: | :---: | :----: | :---: | :-------: | :-------------------------: | :---------: | :----: | :----: | :---: | :-------------------------: |
 |    ASSAULT RIFLE C.E.R.A.     | 2d6+2  |  Piercing   | 200m  |  Yes   |  2H   | 1 Action  | 1 (0) / 6 (+10) / 12 (+20)  | 36 Standard | 99-100 |   9    | 40cr  |           Trusted           |
@@ -109,6 +112,7 @@ Their power lies in simplicity—mechanical precision and chemical energy workin
 
 
 ### Long Arms - Machinegun
+
 |          Name           | Damage | Damage Type | Range | Impale | 1H/2H |  Reload   |              ROF               |     Mag      |  Jam   | Weight | Price  |              Qualities              |
 | :---------------------: | :----: | :---------: | :---: | :----: | :---: | :-------: | :----------------------------: | :----------: | :----: | :----: | :----: | :---------------------------------: |
 |     LMG MODEL 3180      | 2d6+4  |  Piercing   | 500m  |  Yes   |  2H   | 2 Actions | 3 (+10) / 10 (+20) / 30 (+40)  | 120 Standard | 96-100 |   26   | 800cr  | Trusted / Heavy (70) / Bullet Storm |
@@ -120,6 +124,7 @@ Their power lies in simplicity—mechanical precision and chemical energy workin
 |     LMG "TROUT"MK.1     | 2d6+2  |  Piercing   | 400m  |  Yes   |  2H   | 2 Actions |   1 (0) / 5 (+10) / 10 (+20)   | 30 Standard  | 98-100 |   17   | 300cr  |        Tusted / Bullet Storm        |
 
 ### Heavy Arms - Heavy Weapons
+
 |                  Name                  | Damage | Damage Type | Range | Impale | 1H/2H |  Reload   |              ROF              |     Mag      |  Jam   | Weight | Price  |              Qualities               |
 | :------------------------------------: | :----: | :---------: | :---: | :----: | :---: | :-------: | :---------------------------: | :----------: | :----: | :----: | :----: | :----------------------------------: |
 | H.C.A.C (HIGH CALIBER ASSAULT CANNON)  |  3d10  |  Piercing   | 800m  |  Yes   |  2H   | 2 Actions |   1 (0) / 4 (+10) / 8(+20)    | 50 Standard  | 97-100 |   45   | 1000cr | Trusted / Bullet Storm / Heavy (135) |
