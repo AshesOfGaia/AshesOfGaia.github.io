@@ -63,73 +63,73 @@ Their power lies in simplicity—mechanical precision and chemical energy workin
 
 |          Name          | Damage | Damage Type | Range | Impale | 1H/2H |  Reload   |            ROF             |     Mag     |  Jam   | Weight | Price |  Qualities  |
 | :--------------------: | :----: | :---------: | :---: | :----: | :---: | :-------: | :------------------------: | :---------: | :----: | :----: | :---: | :---------: |
-|    Revolver P.T 310    | 1d10+2 |  Piercing   |  40m  |  Yes   |  2H   | 2 Actions |      1 (0) / 2 (+10)       | 6 Standard  |  100   |  2.5   | 95cr  |   Trusted   |
-|  Revolver Striker 404  | 1d10+2 |  Piercing   |  35m  |  Yes   |  2H   | 2 Actions |      1 (0) / 3 (+20)       | 6 Standard  | 97-100 |   2    | 120cr |  Advanced   |
-|    Pistol Harris P8    |  2d6   |  Piercing   |  50m  |  Yes   |  2H   | 1 Action  |           1 (0)            | 9 Standard  | 96-100 |   2    | 75cr  |   Trusted   |
-|    Pistol Delmar R9    |  1d10  |  Piercing   |  25m  |  Yes   |  1H   | 1 Action  |      1 (0) / 3 (+10)       | 15 Standard | 99-100 |  1.5   | 85cr  |   Trusted   |
-| Pistol KRZ-21 "Hornet" |  1d8   |  Piercing   |  20m  |  Yes   |  1H   | 1 Action  |      1 (0) / 3 (+10)       | 7 Standard  | 98-100 |   1    | 65cr  | Concealable |
-|    Pistol NASH X-17    |  1d10  |  Piercing   |  25m  |  Yes   |  1H   | 1 Action  |      1 (0) / 3 (+10)       | 15 Standard | 98-100 |  1.5   | 90cr  |   Trusted   |
-| Pistol M182 "Preacher" |  1d10  |  Piercing   |  25m  |  Yes   |  1H   | 1 Action  | 1 (0) / 3 (+10) / 10 (+20) | 17 Standard | 99-100 |   1    | 100cr |   Trusted   |
+|    Revolver P.T 310    | 1d10+2 |  Piercing   |  40m  |  Yes   |  2H   | 2 Actions |      1 (0) / --- / ---     | 6 Standard  |  100   |  2.5   | 95cr  |   Trusted   |
+|  Revolver Striker 404  | 1d10+2 |  Piercing   |  35m  |  Yes   |  2H   | 2 Actions |      1 (0) / 4 (+5) / ---  | 6 Standard  | 97-100 |   2    | 120cr |  Advanced   |
+|    Pistol Harris P8    |  2d6   |  Piercing   |  50m  |  Yes   |  2H   | 1 Action  |      1 (0) / --- / ---     | 9 Standard  | 96-100 |   2    | 75cr  |   Trusted   |
+|    Pistol Delmar R9    |  1d10  |  Piercing   |  25m  |  Yes   |  1H   | 1 Action  |      1 (0) / 4 (+5) / ---  | 15 Standard | 99-100 |  1.5   | 85cr  |   Trusted   
+| Pistol KRZ-21 "Hornet" |  1d8   |  Piercing   |  20m  |  Yes   |  1H   | 1 Action  |      1 (0) / 4 (+5) / ---    | 7 Standard  | 98-100 |   1    | 65cr  | Concealable |
+|    Pistol NASH X-17    |  1d10  |  Piercing   |  25m  |  Yes   |  1H   | 1 Action  |      1 (0) / 4 (+5) / ---    | 15 Standard | 98-100 |  1.5   | 90cr  |   Trusted   |
+| Pistol M182 "Preacher" |  1d10  |  Piercing   |  25m  |  Yes   |  1H   | 1 Action  | 1 (0) / 4 (+5) / 9 (+10)   | 17 Standard | 99-100 |   1    | 100cr |   Trusted   |
 
 ### Small Arms - Submachine
 
 |        Name        | Damage | Damage Type | Range | Impale | 1H/2H |  Reload  |            ROF             |     Mag     |  Jam   | Weight | Price |        Qualities        |
 | :----------------: | :----: | :---------: | :---: | :----: | :---: | :------: | :------------------------: | :---------: | :----: | :----: | :---: | :---------------------: |
-| Submachine F.A.P.3 |  1d10  |  Piercing   |  50m  |  Yes   |  1H   | 1 Action | 1 (0) / 5 (+10) / 10 (+20) | 25 Standard | 96-100 |   7    | 250cr |         Trusted         |
-|  Submachine VRS-9  |  1d10  |  Piercing   |  75m  |  Yes   |  2H   | 1 Action | 1 (0) / 5 (+10) / 10 (+20) | 30 Standard | 99-100 |   6    | 500cr |         Trusted         |
-| Submachine SMR-10  |  1d10  |  Piercing   | 100m  |  Yes   |  2H   | 1 Action |      1 (0) / 10 (+20)      | 30 Standard | 96-100 |   7    | 200cr | Advanced / Bullet Storm |
-|  Submachine MPZ-7  | 1d10+2 |  Piercing   | 100m  |  Yes   |  2H   | 1 Action |      1 (0) / 10 (+20)      | 50 Standard | 96-100 |   6    | 400cr | Trusted / Bullet Storm  |
-|  Submachine FNT-5  | 1d10+1 |  Piercing   |  50m  |  Yes   |  1H   | 1 Action |          10 (+20)          | 30 Standard | 96-100 |   7    | 400cr |        Advanced         |
-| Submachine TTK-11  |  1d10  |  Piercing   |  75m  |  Yes   |  1H   | 1 Action | 1 (0) / 5 (+10) / 10 (+20) | 25 Standard | 95-100 |   5    | 200cr |         Trusted         |
+| Submachine F.A.P.3 |  1d10  |  Piercing   |  50m  |  Yes   |  1H   | 1 Action | 1 (0) / 6 (+10) / 12 (+15) | 25 Standard | 96-100 |   7    | 250cr |         Trusted         |
+|  Submachine VRS-9  |  1d10  |  Piercing   |  75m  |  Yes   |  2H   | 1 Action | 1 (0) / 6 (+10) / 12 (+15) | 30 Standard | 99-100 |   6    | 500cr |         Trusted         |
+| Submachine SMR-10  |  1d10  |  Piercing   | 100m  |  Yes   |  2H   | 1 Action | 1 (0) / --- / 12 (+15)       | 30 Standard | 96-100 |   7    | 200cr | Advanced / Bullet Storm |
+|  Submachine MPZ-7  | 1d10+2 |  Piercing   | 100m  |  Yes   |  2H   | 1 Action | 1 (0) / --- / 12 (+15)       | 50 Standard | 96-100 |   6    | 400cr | Trusted / Bullet Storm  |
+|  Submachine FNT-5  | 1d10+1 |  Piercing   |  50m  |  Yes   |  1H   | 1 Action |  --- / --- / 12 (+15)          | 30 Standard | 96-100 |   7    | 400cr |        Advanced         |
+| Submachine TTK-11  |  1d10  |  Piercing   |  75m  |  Yes   |  1H   | 1 Action | --- / 6 (+10) / 12 (+15)     | 25 Standard | 95-100 |   5    | 200cr |         Trusted         |
 
 ### Long Arms - Shotgun
 
-|             Name             |  Damage   | Damage Type | Range | Impale | 1H/2H |  Reload   |        ROF        |     Mag     |  Jam   | Weight | Price |          Qualities          |
-| :--------------------------: | :-------: | :---------: | :---: | :----: | :---: | :-------: | :---------------: | :---------: | :----: | :----: | :---: | :-------------------------: |
-| PUMP ACTION P.A. 60 12-GAUGE | 3d6 / 2d6 |  Piercing   |  25m  |   No   |  2H   | 2 Actions |      1 (+20)      | 7 Standard  |  100   |   8    | 20cr  | Trusted / Dispersion / Slug |
-|      PUMP ACTION P.A 19      | 3d6 / 2d6 |  Piercing   |  30m  |   No   |  2H   | 2 Actions |      1 (+20)      | 6 Standard  |  100   |   7    | 35cr  | Trusted / Dispersion / Slug |
-|    AUTOMATIC BULLPUP M25     | 3d6 / 2d6 |  Piercing   |  20m  |   No   |  2H   | 2 Actions | 1 (+20) / 3 (+30) | 7 Standard  |  100   |   8    | 20cr  | Trusted / Dispersion / Slug |
-|   LEVER-ACTION SG "JACKAL"   | 3d6 / 2d6 |  Piercing   |  20m  |   No   |  2H   | 2 Actions |      1 (+20)      | 7 Standard  | 98-100 |   8    | 55cr  |      Dispersion / Slug      |
-|      AUTOMNATIC S.A 74       | 3d6 / 2d6 |  Piercing   |  20m  |   No   |  2H   | 1 Action  | 1 (+20) / 5 (+40) | 10 Standard | 95-100 |   11   | 150cr |  Dispersion / Bullet Storm  |
-|   BREAK-ACTION "JUDGE 2X"    | 3d6 / 2d6 |  Piercing   |  15m  |   No   |  2H   | 1 Action  | 1 (+20) / 2 (+30) | 2 Standard  | 97-100 |   6    | 30cr  | Dispersion / Slug / Bullpup |
-|       A.A. 32 12-GAUGE       | 3d6 / 2d6 |  Piercing   |  25m  |   No   |  2H   | 1 Action  | 1 (+20) / 4 (+20) | 12 Standard | 97-100 |   11   | 80cr  | Trusted / Dispersion / Slug |
+|             Name             |  Damage   | Damage Type | Range | Impale | 1H/2H |  Reload   |        ROF            |     Mag     |  Jam   | Weight | Price |          Qualities          |
+| :--------------------------: | :-------: | :---------: | :---: | :----: | :---: | :-------: | :-------------------: | :---------: | :----: | :----: | :---: | :-------------------------: |
+| PUMP ACTION P.A. 60 12-GAUGE | 3d6 / 2d6 |  Piercing   |  25m  |   No   |  2H   | 2 Actions |  1 (+20) / --- / ---      | 7 Standard  |  100   |   8    | 20cr  | Trusted / Dispersion / Slug |
+|      PUMP ACTION P.A 19      | 3d6 / 2d6 |  Piercing   |  30m  |   No   |  2H   | 2 Actions |  1 (+20) / --- / ---      | 6 Standard  |  100   |   7    | 35cr  | Trusted / Dispersion / Slug |
+|    AUTOMATIC BULLPUP M25     | 3d6 / 2d6 |  Piercing   |  20m  |   No   |  2H   | 2 Actions | 1 (+20) / 4 (+30) / --- | 7 Standard  |  100   |   8    | 20cr  | Trusted / Dispersion / Slug |
+|   LEVER-ACTION SG "JACKAL"   | 3d6 / 2d6 |  Piercing   |  20m  |   No   |  2H   | 2 Actions |   1 (+20) / --- / ---     | 7 Standard  | 98-100 |   8    | 55cr  |      Dispersion / Slug      |
+|      AUTOMNATIC S.A 74       | 3d6 / 2d6 |  Piercing   |  20m  |   No   |  2H   | 1 Action  | 1 (+20) / 6 (+40) / --- | 10 Standard | 95-100 |   11   | 150cr |  Dispersion / Bullet Storm  |
+|   BREAK-ACTION "JUDGE 2X"    | 3d6 / 2d6 |  Piercing   |  15m  |   No   |  2H   | 1 Action  | 1 (+10) / 2 (+20) / --- | 2 Standard  | 97-100 |   6    | 30cr  | Dispersion / Slug / Bullpup |
+|       A.A. 32 12-GAUGE       | 3d6 / 2d6 |  Piercing   |  25m  |   No   |  2H   | 1 Action  | 1 (+20) / 6 (+40) / --- | 12 Standard | 97-100 |   11   | 80cr  | Trusted / Dispersion / Slug |
 
 ### Long Arms - Rifle
 
 |             Name              | Damage | Damage Type | Range | Impale | 1H/2H |  Reload   |             ROF             |     Mag     |  Jam   | Weight | Price |          Qualities          |
 | :---------------------------: | :----: | :---------: | :---: | :----: | :---: | :-------: | :-------------------------: | :---------: | :----: | :----: | :---: | :-------------------------: |
-|    ASSAULT RIFLE C.E.R.A.     | 2d6+2  |  Piercing   | 200m  |  Yes   |  2H   | 1 Action  | 1 (0) / 6 (+10) / 12 (+20)  | 36 Standard | 99-100 |   9    | 40cr  |           Trusted           |
-|       RIFLE GORRO M2T1        | 2d6+4  |  Piercing   | 300m  |  Yes   |  2H   | 1 Action  |            1 (0)            | 8 Standard  | 98-100 |   12   | 300cr |      Trusted / Precise      |
-| ASSAULT RIFLE RNG-13 "LEGATE" |  2d6   |  Piercing   | 300m  |  Yes   |  2H   | 1 Action  |  1 (0) / 3 (+5) / 10 (+15)  | 30 Standard | 95-100 |   10   | 280cr |           Trusted           |
-|     ASSAULT RIFLE AUG-TX2     |  2d6   |  Piercing   | 250m  |  Yes   |  2H   | 1 Action  | 1 (0) / 5 (+10) / 10 (+20)  | 40 Standard | 95-100 |   10   | 350cr |      Trusted / Bullpup      |
-|      RIFLE SR-22 "GHOUL"      |  2d8   |  Piercing   | 500m  |  Yes   |  2H   | 1 Action  |           1 (+10)           | 10 Standard | 95-100 |   11   | 420cr |           Precise           |
-| ASSAULT RIFLE FAL-X "BRUTUS"  | 2d6+4  |  Piercing   | 400m  |  Yes   |  2H   | 1 Action  |       1 (0) / 3 (+10)       | 20 Standard | 95-100 |   11   | 330cr |           Trusted           |
-|     ASSAULT RIFLE SRB-92      |  2d10  |  Piercing   | 500m  |  Yes   |  2H   | 1 Action  |           1 (+10)           | 5 Standard  | 96-100 |   11   | 450cr |       Precise / Slow        |
-|     RIFLE VLK-77 "CZERN"      | 2d8+2  |  Piercing   | 400m  |  Yes   |  2H   | 2 Actions |           1 (+10)           | 5 Standard  | 95-100 |   12   | 390cr |  Trusted / Precise / Slow   |
-|   RIFLE MRX-500 "SOVEREIGN"   |  3d8   |  Piercing   | 1100m |  Yes   |  2H   | 1 Action  |           1 (+10)           | 7 Standard  | 96-100 |   13   | 750cr | Heavy (60) / Precise / Slow |
-|          RIFLE MCR-9          |  2d6   |  Piercing   | 300m  |  Yes   |  2H   | 1 Action  | 1 (0) / 5 (+10) / 15 (+25)  | 40 Caseless | 96-100 |   9    | 370cr |        Bullet Storm         |
-|     ASSAULT RIFLE T3045M2     |  2d6   |  Piercing   | 300m  |  Yes   |  2H   | 1 Action  | 1 (0) / 10 (+15) / 20 (+30) | 60 Caseless | 94-100 |   9    | 300cr |        Bullet Storm         |
+|    ASSAULT RIFLE C.E.R.A.     | 2d6+2  |  Piercing   | 200m  |  Yes   |  2H   | 1 Action  | 1 (0)/ 6 (+10) / 12 (+15)   | 36 Standard | 99-100 |   9    | 40cr  |           Trusted           |
+|       RIFLE GORRO M2T1        | 2d6+4  |  Piercing   | 300m  |  Yes   |  2H   | 1 Action  |        1 (0) / --- / ---        | 8 Standard  | 98-100 |   12   | 300cr |      Trusted / Precise      |
+| ASSAULT RIFLE RNG-13 "LEGATE" |  2d6   |  Piercing   | 300m  |  Yes   |  2H   | 1 Action  |  1 (0) / 6 (+10) / ---        | 30 Standard | 95-100 |   10   | 280cr |           Trusted           |
+|     ASSAULT RIFLE AUG-TX2     |  2d6   |  Piercing   | 250m  |  Yes   |  2H   | 1 Action  | 1 (0) / 8 (+15) / 15 (+20)  | 40 Standard | 95-100 |   10   | 350cr |      Trusted / Bullpup      |
+|      RIFLE SR-22 "GHOUL"      |  2d8   |  Piercing   | 500m  |  Yes   |  2H   | 1 Action  |      1 (+10) / --- / ---        | 10 Standard | 95-100 |   11   | 420cr |           Precise           |
+| ASSAULT RIFLE FAL-X "BRUTUS"  | 2d6+4  |  Piercing   | 400m  |  Yes   |  2H   | 1 Action  |    1 (0) / 6 (+10) / ---      | 20 Standard | 95-100 |   11   | 330cr |           Trusted           |
+|     ASSAULT RIFLE SRB-92      |  2d10  |  Piercing   | 500m  |  Yes   |  2H   | 1 Action  |       1 (+10) / --- / ---       | 5 Standard  | 96-100 |   11   | 450cr |       Precise / Slow        |
+|     RIFLE VLK-77 "CZERN"      | 2d8+2  |  Piercing   | 400m  |  Yes   |  2H   | 2 Actions |       1 (+10) / --- / ---     | 5 Standard  | 95-100 |   12   | 390cr |  Trusted / Precise / Slow   |
+|   RIFLE MRX-500 "SOVEREIGN"   |  3d8   |  Piercing   | 1100m |  Yes   |  2H   | 1 Action  |       1 (+10) / --- / ---       | 7 Standard  | 96-100 |   13   | 750cr | Heavy (60) / Precise / Slow |
+|          RIFLE MCR-9          |  2d6   |  Piercing   | 300m  |  Yes   |  2H   | 1 Action  | 1 (0) / 8 (+15) / 15 (+20)  | 40 Caseless | 96-100 |   9    | 370cr |        Bullet Storm         |
+|     ASSAULT RIFLE T3045M2     |  2d6   |  Piercing   | 300m  |  Yes   |  2H   | 1 Action  | --- / 8 (+15) / 15 (+20)      | 60 Caseless | 94-100 |   9    | 300cr |        Bullet Storm         |
 
 
 ### Long Arms - Machinegun
 
 |          Name           | Damage | Damage Type | Range | Impale | 1H/2H |  Reload   |              ROF               |     Mag      |  Jam   | Weight | Price  |              Qualities              |
 | :---------------------: | :----: | :---------: | :---: | :----: | :---: | :-------: | :----------------------------: | :----------: | :----: | :----: | :----: | :---------------------------------: |
-|     LMG MODEL 3180      | 2d6+4  |  Piercing   | 500m  |  Yes   |  2H   | 2 Actions | 3 (+10) / 10 (+20) / 30 (+40)  | 120 Standard | 96-100 |   26   | 800cr  | Trusted / Heavy (70) / Bullet Storm |
-|       LMG BGR-77        | 2d6+6  |  Piercing   | 450m  |  Yes   |  2H   | 2 Actions | 3 (+10) / 12 (+20) / 20 (+30)  | 100 Standard | 96-100 |   20   | 600cr  |       Trusted / Bullet Storm        |
-|  MG C.870 "SANDSTORM"   | 2d6+4  |  Piercing   | 600m  |  Yes   |  2H   | 2 Actions | 3 (+10) / 12 (+20) / 25 (+35)  | 100 Standard | 95-100 |   23   | 700cr  | Trusted / Heavy (60) / Bullet Storm |
-|       LMG MPG-55        | 2d6+4  |  Piercing   | 400m  |  Yes   |  2H   | 2 Actions |   1 (0) / 5 (+10) / 15 (+20)   | 50 Standard  | 98-100 |   18   | 500cr  |            Bullet Storm             |
-| HMG T.S.R. 42"HELLWAKE" | 2d6+4  |  Piercing   | 500m  |  Yes   |  2H   | 4 Actions | 10 (+20) / 30 (+40) / 60 (+60) | 300 Caseless | 90-100 |   30   | 2000cr |             Heavy (90)              |
-|        LMG BRU-2        | 2d6+2  |  Piercing   | 300m  |  Yes   |  2H   | 2 Actions |   1 (0) / 5 (+10) / 15 (+30)   | 45 Standard  | 98-100 |   16   | 450cr  |        Tusted / Bullet Storm        |
-|     LMG "TROUT"MK.1     | 2d6+2  |  Piercing   | 400m  |  Yes   |  2H   | 2 Actions |   1 (0) / 5 (+10) / 10 (+20)   | 30 Standard  | 98-100 |   17   | 300cr  |        Tusted / Bullet Storm        |
+|     LMG MODEL 3180      | 2d6+4  |  Piercing   | 500m  |  Yes   |  2H   | 2 Actions | --- / 14 (+20) / 24 (+30)        | 120 Standard | 96-100 |   26   | 800cr  | Trusted / Heavy (70) / Bullet Storm |
+|       LMG BGR-77        | 2d6+6  |  Piercing   | 450m  |  Yes   |  2H   | 2 Actions | 6 (+10) / 14 (+20) / 24 (+30)  | 100 Standard | 96-100 |   20   | 600cr  |       Trusted / Bullet Storm        |
+|  MG C.870 "SANDSTORM"   | 2d6+4  |  Piercing   | 600m  |  Yes   |  2H   | 2 Actions | 6 (+10) / 14 (+20) / 24 (+30)  | 100 Standard | 95-100 |   23   | 700cr  | Trusted / Heavy (60) / Bullet Storm |
+|       LMG MPG-55        | 2d6+4  |  Piercing   | 400m  |  Yes   |  2H   | 2 Actions |   1 (0) / 8 (+15) / 15 (+20)   | 50 Standard  | 98-100 |   18   | 500cr  |            Bullet Storm             |
+| HMG T.S.R. 42"HELLWAKE" | 2d6+4  |  Piercing   | 500m  |  Yes   |  2H   | 4 Actions | 8 (+15) / 18 (+25) / 30 (+35)  | 300 Caseless | 90-100 |   30   | 2000cr |             Heavy (90)              |
+|        LMG BRU-2        | 2d6+2  |  Piercing   | 300m  |  Yes   |  2H   | 2 Actions |   1 (0) / 6 (+10) / 12 (+15)   | 45 Standard  | 98-100 |   16   | 450cr  |        Tusted / Bullet Storm        |
+|     LMG "TROUT"MK.1     | 2d6+2  |  Piercing   | 400m  |  Yes   |  2H   | 2 Actions |   --- / 8 (+15) / 15 (+20)       | 30 Standard  | 98-100 |   17   | 300cr  |        Tusted / Bullet Storm        |
 
 ### Heavy Arms - Heavy Weapons
 
 |                  Name                  | Damage | Damage Type | Range | Impale | 1H/2H |  Reload   |              ROF              |     Mag      |  Jam   | Weight | Price  |              Qualities               |
 | :------------------------------------: | :----: | :---------: | :---: | :----: | :---: | :-------: | :---------------------------: | :----------: | :----: | :----: | :----: | :----------------------------------: |
-| H.C.A.C (HIGH CALIBER ASSAULT CANNON)  |  3d10  |  Piercing   | 800m  |  Yes   |  2H   | 2 Actions |   1 (0) / 4 (+10) / 8(+20)    | 50 Standard  | 97-100 |   45   | 1000cr | Trusted / Bullet Storm / Heavy (135) |
-|  ANTI-MATERIAL RIFLE K.A.C. "REAPER"   |  5d10  |  Piercing   | 1000m |  Yes   |  2H   | 2 Actions |            1 (+10)            |  5 Standard  | 95-100 |   25   | 1800cr |            Trusted / Slow            |
-| VERY HEAVY MACHINE GUN BLACKTUSK XG-91 |  4d10  |  Piercing   | 9000m |  Yes   |  2H   | 2 Actions |  2 (0) / 6 (+10) / 12 (+20)   | 60 Standard  | 94-100 |   40   | 2000cr |      Bullet Storm / Heavy (120)      |
-|      ROTARY CANON GAU-3 "CYCLOPS"      | 3d10+6 |  Piercing   | 750m  |  Yes   |  2H   | 2 Actions | 6 (+10) / 12 (+20) / 36 (+40) | 360 Caseless | 95-100 |   60   | 3000cr |      Bullet Storm / Heavy (150)      |
+| H.C.A.C (HIGH CALIBER ASSAULT CANNON)  |  3d10  |  Piercing   | 800m  |  Yes   |  2H   | 2 Actions |   1 (0) / 4 (+5) / 8(+10)     | 50 Standard  | 97-100 |   45   | 1000cr | Trusted / Bullet Storm / Heavy (135) |
+|  ANTI-MATERIAL RIFLE K.A.C. "REAPER"   |  5d10  |  Piercing   | 1000m |  Yes   |  2H   | 2 Actions |       1 (+10) / --- / ---         |  5 Standard  | 95-100 |   25   | 1800cr |            Trusted / Slow            |
+| VERY HEAVY MACHINE GUN BLACKTUSK XG-91 |  4d10  |  Piercing   | 9000m |  Yes   |  2H   | 2 Actions |  --- / 6 (+10) / 12 (+15)       | 60 Standard  | 94-100 |   40   | 2000cr |      Bullet Storm / Heavy (120)      |
+|      ROTARY CANON GAU-3 "CYCLOPS"      | 3d10+6 |  Piercing   | 750m  |  Yes   |  2H   | 2 Actions | --- / 18 (+25) / 30 (+35)       | 360 Caseless | 95-100 |   60   | 3000cr |      Bullet Storm / Heavy (150)      |
 
 </div>
