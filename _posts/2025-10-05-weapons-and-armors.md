@@ -20,6 +20,8 @@ pin: true
 
 ## Weapons Qualities
 
+Below you can see a full list of all melee and range weapons qualities:
+
 | Quality | Description |
 | :-----: | :---------: |
 | ADVANCED | This weapon represents the peak of current technology. Because of its complexity, it is very difficult to repair if damaged or jammed. Repairing or unjamming requires a Hard Weapon Skill check and spending one action. |
@@ -52,7 +54,25 @@ pin: true
 
 ## Weapons Table
 
-**CONVENTIONAL:** Conventional Weapons represent the broadest and most enduring category of ranged armaments, encompassing everything from modern automatic rifles and precision sniper systems to classic revolvers and bolt-action rifles of earlier centuries. What unites them is their reliance on chemical propellants—typically gunpowder or advanced synthetic charges—to fire solid projectiles through explosive expansion and pressure.
+| TABLE ELEMENT | DESCRIPTION |
+| :-----------: | :---------: |
+|      Name     | Provide players with weapon name. |
+|     Damage    | Represents the weapon’s lethality and determines the type of dice a player rolls when dealing damage with that weapon. |
+| Damage type | The nature of the damage dealt (e.g., Piercing, Energy, Primitive), which determines how it interacts with target armor. |
+| Range | The effective distance at which the weapon can accurately hit a target. We distingish three ranges: Normal, Long, Extreme.
+| Impale | Indicates whether the weapon can deal critical damage, which are dealt when character score critical success on weapon skill. Critical damage double the amount of dices used whenever dealing damage to taget.
+| Hand Necessary | The number of hands required to properly wield the weapon (e.g., 1H or 2H). |
+| Reload | The number of actions required to fully reload the weapon’s magazine or cylinder |
+| Rate of fire | The number of attacks the weapon can make per turn, listed as single / burst / auto, with modifiers where applicable. |
+| Magazine | The maximum number of rounds, charges or bolts the weapon can hold before reloading. |
+| Jamming | The roll range that causes the weapon to jam or malfunction when firing. Unjamming weapon require 1 action |
+| Weight | The mass of the weapon, measured in pounds; affects encumbrance:
+| Price | The market value of weapon, always listed in credits.
+| Qualities | Special traits or unique properties that modify how the weapon behaves in combat (e.g., Trusted, Advanced, Overload).
+
+## Concentional Weapons
+
+Conventional Weapons represent the broadest and most enduring category of ranged armaments, encompassing everything from modern automatic rifles and precision sniper systems to classic revolvers and bolt-action rifles of earlier centuries. What unites them is their reliance on chemical propellants—typically gunpowder or advanced synthetic charges—to fire solid projectiles through explosive expansion and pressure.
 
 These weapons vary widely in design, sophistication, and purpose: from rugged, old-world firearms passed down through generations to state-of-the-art assault systems integrating cutting-edge materials, smart optics, and stabilized recoil mechanics. Despite the rise of energy and magnetic weaponry, conventional firearms remain reliable, versatile, and easy to maintain, making them a staple for soldiers, mercenaries, and survivalists alike.
 
@@ -132,7 +152,9 @@ Their power lies in simplicity—mechanical precision and chemical energy workin
 | VERY HEAVY MACHINE GUN BLACKTUSK XG-91 |  4d10  |  Piercing   | 9000m |  Yes   |  2H   | 2 Actions |  --- / 6 (+10) / 12 (+15)     | 60 Standard  | 94-100 |   40   | 2000cr |      Bullet Storm / Heavy (120)      |
 |      ROTARY CANON GAU-3 "CYCLOPS"      | 3d10+6 |  Piercing   | 750m  |  Yes   |  2H   | 2 Actions | --- / 18 (+25) / 30 (+35)     | 360 Caseless | 95-100 |   60   | 3000cr |      Bullet Storm / Heavy (150)      |
 
-**ENERGY:** harness directed beams of coherent light, plasma, or focused radiation to deliver devastating precision and speed. Unlike conventional firearms that rely on chemical propellants, these weapons use high-density energy cells or compact reactors to project their payload at near-instant velocities, making them exceptionally accurate and nearly impossible to evade once fired.
+## Energy Weapons
+
+Energy weapons harness directed beams of coherent light, plasma, or focused radiation to deliver devastating precision and speed. Unlike conventional firearms that rely on chemical propellants, these weapons use high-density energy cells or compact reactors to project their payload at near-instant velocities, making them exceptionally accurate and nearly impossible to evade once fired.
 
 This category encompasses a wide range of armaments—from sleek laser pistols and rifles designed for infantry use, to heavy plasma cannons capable of melting through armored plating. Their projectiles leave no ballistic trajectory or shell casings, only the scorched aftermath of concentrated energy impact.
 
