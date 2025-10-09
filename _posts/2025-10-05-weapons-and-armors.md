@@ -70,7 +70,7 @@ Below you can see a full list of all melee and range weapons qualities:
 |      Price     | The weapon’s market value, listed in credits. Prices may vary depending on location, availability, and seller. |
 |    Qualities   | Special traits or unique properties that influence how the weapon performs in combat (e.g., Trusted, Advanced, Overload). |
 
-## Concentional Weapons
+## Conventional Weapons
 
 Conventional Weapons represent the broadest and most enduring category of ranged armaments, encompassing everything from modern automatic rifles and precision sniper systems to classic revolvers and bolt-action rifles of earlier centuries. What unites them is their reliance on chemical propellants—typically gunpowder or advanced synthetic charges—to fire solid projectiles through explosive expansion and pressure.
 
