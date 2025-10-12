@@ -67,6 +67,10 @@ At the end of each game session, the players and the Game Master move on to dist
       <td>Each player then assigns 5 experience points to another player of their choice and explains out loud why they are granting those points. The Game Master cannot modify these choices, as long as the points are not given to oneself or to someone who was not present during the session. </td>
     </tr>
     <tr>
+      <td><strong> GM Bonus </strong></td>
+      <td>0–10 XP granted individually at the GM’s discretion. </td>
+    </tr>
+    <tr>
       <td><strong> Archetype bonus </strong></td>
       <td>The final component of experience distribution is the Archetype Reward, granted at the end of the session based on the player’s Archetype. Ticks should be recorded in real time during the game, and an additional tick may be added only if the GM allows it after the session ends. Each tick grants the player 5 extra experience points. Only the highest number of ticks among all applicable Archetypes is considered; ticks are not cumulative across multiple Archetypes. </td>
     </tr>
