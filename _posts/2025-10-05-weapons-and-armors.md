@@ -274,5 +274,14 @@ Flamethrowers and other incendiary systems use streams of ignited fuel to engulf
 | :------------------------------: | :-----------: | :---------: | :----: | :----: | :---: | :-------: | :------------------------: | :--------------------: | :-------: | :-----: | :----: | :---------------------------: |
 | CONDENSED PLASMA THOWER "PEEBLE" |     5d10      |    Energy   |  150m  |   No   |  2H   | 4 Actions |     1 (0) / --- / ---      |    2 Plasma Charges    |  90-100   |   30    | 7000cr |      Grusome / Advanced       |
 
+## Conventional Weapons
+
+### Small Arms - Handguns
+
+|          Name          | Reference Picture | Description |
+| :--------------------: | :----------------:| :---------: |
+|    Revolver P.T 310    | <img src="https://i.postimg.cc/FzKXWHDT/b2b193db10876b496c85ab155353cd49.jpg"> | A god dammed revolver brotha |
+
+
 
 </div>
