@@ -288,13 +288,5 @@ Flamethrowers and other incendiary systems use streams of ignited fuel to engulf
 |    PISTOL NASH X-17          | <img src="https://i.postimg.cc/fWmfbQjH/Pistol-Nash-X-17-2.jpg" alt="A pistol"> | Standard military/shipside sidearm updated with nano-coated internals and a smart-mag port. Reliable under sustained use and widely fielded — easy to source parts and ammo. |
 |    PISTOL “PREACHER” M182    | <img src="https://i.postimg.cc/7YrX1ZZq/PISTOL-PREACHER-M182.jpg" alt="A pistol"> | Modular polymer pistol platform with high magazine capacity and aftermarket modularity. Light, durable, and adaptable to biometric locks or simple fire-control modules. |
 
-### Conventional - Submachine
-
-|    SUBMACHINE F.A.P.3    | <img src="" alt="A pistol"> | Compact, robust SMG using short, controlled-impulse rounds; excellent for tight spaces and boarding teams. Cheap, easy to repair, and tolerant of contamination. |
-|    SUBMACHINE VRS-9      | <img src="" alt="A pistol"> | Squad-level SMG refined for suppressed ops and optics integration. Good balance of controllability and accuracy in urban/indoor fights. |
-|    SUBMACHINE SMR-10     | <img src="" alt="A pistol"> | Lightweight PDW with excellent ergonomics and modular rails; works well with smart-ammo linkers and drone control rigs. Fast handling for hit-and-run teams. |
-|    SUBMACHINE MPZ-7      | <img src="" alt="A pistol"> | Bullpup PDW with high magazine capacity and compact profile; optimized for armor-piercing micro-sabots in a small package. Ideal for vehicle crews and VIP details. |
-|    SUBMACHINE FNT-5      | <img src="" alt="A pistol"> | Tiny, high-rate machine pistol augmented with dampers — devastating at point-blank but wildly inefficient at range. Cheap and disposable; common in short-term black-market use. |
-|    SUBMACHINE TTK-11     | <img src="" alt="A pistol"> | Low-signature tactical PDW with programmable burst modes and adaptive recoil control. Suited for bodyguard units and clandestine teams who need controllable automatic fire. |
 
 </div>
