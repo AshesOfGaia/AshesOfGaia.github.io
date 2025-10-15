@@ -274,13 +274,15 @@ Flamethrowers and other incendiary systems use streams of ignited fuel to engulf
 | :------------------------------: | :-----------: | :---------: | :----: | :----: | :---: | :-------: | :------------------------: | :--------------------: | :-------: | :-----: | :----: | :---------------------------: |
 | CONDENSED PLASMA THOWER "PEEBLE" |     5d10      |    Energy   |  150m  |   No   |  2H   | 4 Actions |     1 (0) / --- / ---      |    2 Plasma Charges    |  90-100   |   30    | 7000cr |      Grusome / Advanced       |
 
-## Conventional Weapons
-
-### Small Arms - Handguns
+## Weapons description and Availability
 
 |          Name          | Reference Picture | Description |
 | :--------------------: | :----------------:| :---------: |
-|    Revolver P.T 310    | <img src="https://i.postimg.cc/FzKXWHDT/b2b193db10876b496c85ab155353cd49.jpg" alt="A revolver"> | A god dammed revolver brotha |
+|    Revolver P.T 310    | <img src="https://i.postimg.cc/NfS7jPq9/Revolver-P-T-310.jpg" alt="A revolver"> | Large-frame magnum revolver firing high-pressure, sabot-style rounds. Heavy and slow to reload but brutal on a single hit; simple mechanics and sealed internals make it rock-solid in harsh environments. |
+|    Revolver Striker 404    | <img src="https://i.postimg.cc/4d0nQq1W/Revolver-Striker-404.jpg" alt="A revolver"> | Autorevolver with servo-assisted cylinder indexing and recoil mitigation. Keeps revolver reliability with semi-auto fire rates — a niche choice for officers who want style and practical redundancy. |
+|    PISTOL HARRIS P8    | <img src="https://i.postimg.cc/DzxygHcj/Pistol-Harris-p8.jpg" alt="A pistol"> | Heavy, large-caliber semi-auto built for stopping power; designed to accept overpressure casings and high-impulse rounds. Strong recoil, simple internals, popular where penetration matters more than concealment. |
+|    PISTOL DELMAR R9    | <img src="https://i.postimg.cc/V6FTnPBQ/Pistol-Delmar-R9.jpg" alt="A pistol"> | Service-grade, full-size sidearm: balanced, accurate, and robust. Common on corporate and municipal contracts because it’s easy to maintain and integrates reliably with smart sights. |
+|    PISTOL KRZ-21 “HORNET”    | <img src="https://i.postimg.cc/YChH70Nf/Pistol-KRZ-21-Hornet.jpg" alt="A pistol"> | Micro concealed pistol for close-in tasks; fires quiet subsonic loads to reduce over-penetration on pressurized decks. Favored for covert ops and backup carry thanks to low profile and fast draws. |
 
 
 
