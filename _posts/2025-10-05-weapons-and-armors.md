@@ -276,14 +276,25 @@ Flamethrowers and other incendiary systems use streams of ignited fuel to engulf
 
 ## Weapons description and Availability
 
-|          Name          | Reference Picture | Description |
-| :--------------------: | :----------------:| :---------: |
-|    Revolver P.T 310    | <img src="https://i.postimg.cc/NfS7jPq9/Revolver-P-T-310.jpg" alt="A revolver"> | Large-frame magnum revolver firing high-pressure, sabot-style rounds. Heavy and slow to reload but brutal on a single hit; simple mechanics and sealed internals make it rock-solid in harsh environments. |
-|    Revolver Striker 404    | <img src="https://i.postimg.cc/4d0nQq1W/Revolver-Striker-404.jpg" alt="A revolver"> | Autorevolver with servo-assisted cylinder indexing and recoil mitigation. Keeps revolver reliability with semi-auto fire rates — a niche choice for officers who want style and practical redundancy. |
-|    PISTOL HARRIS P8    | <img src="https://i.postimg.cc/DzxygHcj/Pistol-Harris-p8.jpg" alt="A pistol"> | Heavy, large-caliber semi-auto built for stopping power; designed to accept overpressure casings and high-impulse rounds. Strong recoil, simple internals, popular where penetration matters more than concealment. |
-|    PISTOL DELMAR R9    | <img src="https://i.postimg.cc/V6FTnPBQ/Pistol-Delmar-R9.jpg" alt="A pistol"> | Service-grade, full-size sidearm: balanced, accurate, and robust. Common on corporate and municipal contracts because it’s easy to maintain and integrates reliably with smart sights. |
+### Conventional - Handguns
+
+|            Name              | Reference Picture | Description |
+| :--------------------------: | :----------------:| :---------: |
+|    Revolver P.T 310          | <img src="https://i.postimg.cc/NfS7jPq9/Revolver-P-T-310.jpg" alt="A revolver"> | Large-frame magnum revolver firing high-pressure, sabot-style rounds. Heavy and slow to reload but brutal on a single hit; simple mechanics and sealed internals make it rock-solid in harsh environments. |
+|    Revolver Striker 404      | <img src="https://i.postimg.cc/4d0nQq1W/Revolver-Striker-404.jpg" alt="A revolver"> | Autorevolver with servo-assisted cylinder indexing and recoil mitigation. Keeps revolver reliability with semi-auto fire rates — a niche choice for officers who want style and practical redundancy. |
+|    PISTOL HARRIS P8          | <img src="https://i.postimg.cc/DzxygHcj/Pistol-Harris-p8.jpg" alt="A pistol"> | Heavy, large-caliber semi-auto built for stopping power; designed to accept overpressure casings and high-impulse rounds. Strong recoil, simple internals, popular where penetration matters more than concealment. |
+|    PISTOL DELMAR R9          | <img src="https://i.postimg.cc/V6FTnPBQ/Pistol-Delmar-R9.jpg" alt="A pistol"> | Service-grade, full-size sidearm: balanced, accurate, and robust. Common on corporate and municipal contracts because it’s easy to maintain and integrates reliably with smart sights. |
 |    PISTOL KRZ-21 “HORNET”    | <img src="https://i.postimg.cc/YChH70Nf/Pistol-KRZ-21-Hornet.jpg" alt="A pistol"> | Micro concealed pistol for close-in tasks; fires quiet subsonic loads to reduce over-penetration on pressurized decks. Favored for covert ops and backup carry thanks to low profile and fast draws. |
-|    PISTOL NASH X-17    | <img src="https://i.postimg.cc/fWmfbQjH/Pistol-Nash-X-17-2.jpg" alt="A pistol"> | Standard military/shipside sidearm updated with nano-coated internals and a smart-mag port. Reliable under sustained use and widely fielded — easy to source parts and ammo. |
+|    PISTOL NASH X-17          | <img src="https://i.postimg.cc/fWmfbQjH/Pistol-Nash-X-17-2.jpg" alt="A pistol"> | Standard military/shipside sidearm updated with nano-coated internals and a smart-mag port. Reliable under sustained use and widely fielded — easy to source parts and ammo. |
 |    PISTOL “PREACHER” M182    | <img src="https://i.postimg.cc/7YrX1ZZq/PISTOL-PREACHER-M182.jpg" alt="A pistol"> | Modular polymer pistol platform with high magazine capacity and aftermarket modularity. Light, durable, and adaptable to biometric locks or simple fire-control modules. |
+
+### Conventional - Submachine
+
+|    SUBMACHINE F.A.P.3    | <img src="" alt="A pistol"> | Compact, robust SMG using short, controlled-impulse rounds; excellent for tight spaces and boarding teams. Cheap, easy to repair, and tolerant of contamination. |
+|    SUBMACHINE VRS-9      | <img src="" alt="A pistol"> | Squad-level SMG refined for suppressed ops and optics integration. Good balance of controllability and accuracy in urban/indoor fights. |
+|    SUBMACHINE SMR-10     | <img src="" alt="A pistol"> | Lightweight PDW with excellent ergonomics and modular rails; works well with smart-ammo linkers and drone control rigs. Fast handling for hit-and-run teams. |
+|    SUBMACHINE MPZ-7      | <img src="" alt="A pistol"> | Bullpup PDW with high magazine capacity and compact profile; optimized for armor-piercing micro-sabots in a small package. Ideal for vehicle crews and VIP details. |
+|    SUBMACHINE FNT-5      | <img src="" alt="A pistol"> | Tiny, high-rate machine pistol augmented with dampers — devastating at point-blank but wildly inefficient at range. Cheap and disposable; common in short-term black-market use. |
+|    SUBMACHINE TTK-11     | <img src="" alt="A pistol"> | Low-signature tactical PDW with programmable burst modes and adaptive recoil control. Suited for bodyguard units and clandestine teams who need controllable automatic fire. |
 
 </div>
