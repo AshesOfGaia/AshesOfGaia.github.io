@@ -280,7 +280,7 @@ Flamethrowers and other incendiary systems use streams of ignited fuel to engulf
 
 |          Name          | Reference Picture | Description |
 | :--------------------: | :----------------:| :---------: |
-|    Revolver P.T 310    | <img src="https://i.postimg.cc/FzKXWHDT/b2b193db10876b496c85ab155353cd49.jpg"> | A god dammed revolver brotha |
+|    Revolver P.T 310    | <img src="https://i.postimg.cc/FzKXWHDT/b2b193db10876b496c85ab155353cd49.jpg" alt="A revolver"> | A god dammed revolver brotha |
 
 
 
