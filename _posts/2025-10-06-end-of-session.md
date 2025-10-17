@@ -625,7 +625,7 @@ At the end of the session, each skill increases based on the highest degree of s
 | Type of Success | Amount to Increase |
 |-----------------|:--------------------:|
 | Simple (x1) | +1 Point |
-| Normal (x2/3)| +2 Points | 
+| Normal (x3/4)| +2 Points | 
 | Hard (x1/2)| +3 Points |
 | Extreme (x1/4)| +4 Points |
 
