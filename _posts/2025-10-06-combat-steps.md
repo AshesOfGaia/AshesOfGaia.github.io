@@ -266,3 +266,162 @@ Allows player to make a single attack in a given turn, which deals damage from t
 | Left Leg | 88 - 100 | -20 | x0.5 |
 
 </div>
+
+## Damage Calculator
+
+<style>
+.calculator body {
+  font-family: Arial, sans-serif;
+  background: #101010;
+  color: #eee;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.calculator h1, h2 {
+  margin-bottom: 10px;
+}
+
+/* --- Kalkulator --- */
+.calc {
+  background: #1d1d1d;
+  padding: 15px 25px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  width: fit-content;
+  box-shadow: 0 0 10px #0008;
+}
+
+.calc label {
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.calc input[type="number"],
+.calc select {
+  padding: 8px;
+  border-radius: 6px;
+  border: none;
+  background: #2a2a2a;
+  color: #fff;
+  width: 80px;
+  text-align: center;
+}
+
+.calc select {
+  width: 120px;
+}
+
+.calc input[type="checkbox"] {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.calc button {
+  padding: 8px 16px;
+  background: #008cff;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.calc button:hover {
+  background: #00aaff;
+}
+
+/* --- Tabela pancerza --- */
+.calculator table {
+  border-collapse: collapse;
+  margin: 10px 0;
+  background: #1a1a1a;
+}
+
+.calculator th, td {
+  border: 1px solid #333;
+  padding: 6px 10px;
+  text-align: center;
+}
+
+.calculator input[type="number"] {
+  text-align: center;
+}
+
+/* --- Wynik --- */
+.result-box {
+  background: #222;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+
+/* --- Presety --- */
+.preset {
+  background: #1c1c1c;
+  padding: 5px 10px;
+  margin: 5px 0;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.preset button {
+  background: #ff4444;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+.hint {
+  color: #999;
+  font-size: 0.9em;
+}
+</style>
+
+<body class="calculator">
+  <section class="calc">
+    <label>🎲 Roll</label>
+    <input type="number" id="roll" min="1" max="100" />
+    <label>💥 DMG</label>
+    <input type="number" id="baseDamage" />
+    <label>🗡️ Typ</label>
+    <select id="damageType">
+      <option value="PIERCING">PIERCING</option>
+      <option value="ENERGY">ENERGY</option>
+      <option value="PRIMITIVE">PRIMITIVE</option>
+    </select>
+    <label class="melee-label">Melee</label>
+    <input type="checkbox" id="meleeCheckbox" />
+    <button id="calcBtn">⚔️ Calculate</button>
+  </section>
+</body>
+
+#### 🛡️ Armor
+
+<div id="armorTable"></div>
+
+#### ⚙️ Build Modifier
+
+<input type="number" id="buildModifier" value="0" />
+<p class="hint">Static Armor Modifier</p>
+
+#### 📦 Armor Presets
+
+<div id="presetControls">
+  <input type="text" id="presetName" placeholder="Nazwa nowego presetu" />
+  <button id="savePresetBtn">💾 Save Preset</button>
+</div>
+<div id="presetList"></div>
+<div id="result"></div>
+<script type="module" src="{{ '/js/damage-calculator.js' | relative_url }}"></script>
