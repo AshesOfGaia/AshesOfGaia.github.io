@@ -169,6 +169,7 @@ Rate of fire (ROF) shows if the weapon is capable of making semi and auto modes 
     <th> Attacks Per Turn </th>
     <th> Action Cost </th>
     <th style="text-align: left"> Notes </th>
+    <th> Modifiers </th>
   </thead>
   <tbody>
     <tr>
@@ -176,18 +177,21 @@ Rate of fire (ROF) shows if the weapon is capable of making semi and auto modes 
       <td> 1 </td>
       <td> 1 Action </td>
       <td style="text-align: left"> Standard Attack </td>
+      <td> +20 Modifier for 1st </td>
     </tr>
     <tr>
       <td style="text-align:left"> Semi-Auto </td>
       <td> Up to 2 </td>
       <td> 1 Action </td>
       <td style="text-align: left"> Uses standard multiple-attack modifiers. </td>
+      <td> 0 penalty on 1st, -20 on 2nd </td>
     </tr>
     <tr>
       <td style="text-align:left"> Full Auto </td>
       <td> Up to 3 </td>
       <td> 2 Actions </td>
       <td style="text-align: left"> Harder to control; standard multiple-attack modifiers still apply. </td>
+      <td> 0 penalty on 1st, -20 on 2nd, -40 on 3rd </td>
     </tr>
   </tbody>
 </table>
