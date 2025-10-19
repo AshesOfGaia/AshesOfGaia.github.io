@@ -145,12 +145,16 @@ Their power lies in simplicity—mechanical precision and chemical energy workin
 
 ### Heavy Arms - Heavy Weapons
 
-|                  Name                  | Damage | Damage Type | Range | Impale | 1H/2H |  Reload   |              ROF              |     Mag      |  Jam   | Weight | Price  |              Qualities               |
-| :------------------------------------: | :----: | :---------: | :---: | :----: | :---: | :-------: | :---------------------------: | :----------: | :----: | :----: | :----: | :----------------------------------: |
-| H.C.A.C (HIGH CALIBER ASSAULT CANNON)  |  3d10  |  Piercing   | 800m  |  Yes   |  2H   | 2 Actions |   1 (0) / 2 (+5) / 3 (+10)    | 50 Standard  | 97-100 |   45   | 1000cr | Trusted / Bullet Storm / Heavy (135) |
-|  ANTI-MATERIAL RIFLE K.A.C. "REAPER"   |  5d10  |  Piercing   | 1000m |  Yes   |  2H   | 2 Actions |       1 (+10) / --- / ---     |  5 Standard  | 95-100 |   25   | 1800cr |            Trusted / Slow            |
-| VERY HEAVY MACHINE GUN BLACKTUSK XG-91 |  4d10  |  Piercing   | 9000m |  Yes   |  2H   | 2 Actions |   --- / 3 (+10) / 4 (+15)     | 60 Standard  | 94-100 |   40   | 2000cr |      Bullet Storm / Heavy (120)      |
-|      ROTARY CANON GAU-3 "CYCLOPS"      | 3d10+6 |  Piercing   | 750m  |  Yes   |  2H   | 2 Actions |   --- / 9 (+25) / 10 (+35)    | 360 Caseless | 95-100 |   60   | 3000cr |      Bullet Storm / Heavy (150)      |
+|                  Name                  | Damage | Damage Type | Range | Impale | 1H/2H |  Reload   |              ROF              |        Mag         |  Jam   | Weight |  Price  |              Qualities               |
+| :------------------------------------: | :----: | :---------: | :---: | :----: | :---: | :-------: | :---------------------------: | :----------------: | :----: | :----: | :-----: | :----------------------------------: |
+| H.C.A.C (HIGH CALIBER ASSAULT CANNON)  |  3d10  |  Piercing   | 800m  |  Yes   |  2H   | 2 Actions |   1 (0) / 2 (+5) / 3 (+10)    |     50 Standard    | 97-100 |   45   |  1000cr | Trusted / Bullet Storm / Heavy (135) |
+|  ANTI-MATERIAL RIFLE K.A.C. "REAPER"   |  5d10  |  Piercing   | 1000m |  Yes   |  2H   | 2 Actions |       1 (+10) / --- / ---     |     5 Standard     | 95-100 |   25   |  1800cr |            Trusted / Slow            |
+| VERY HEAVY MACHINE GUN BLACKTUSK XG-91 |  4d10  |  Piercing   | 9000m |  Yes   |  2H   | 2 Actions |   --- / 3 (+10) / 4 (+15)     |     60 Standard    | 94-100 |   40   |  2000cr |      Bullet Storm / Heavy (120)      |
+|      ROTARY CANON GAU-3 "CYCLOPS"      | 3d10+6 |  Piercing   | 750m  |  Yes   |  2H   | 2 Actions |   --- / 9 (+25) / 10 (+35)    |    360 Caseless    | 95-100 |   60   |  3000cr |      Bullet Storm / Heavy (150)      |
+|         HG 45 GRENADE LUNCHER          |  3d10  |  Primitive  | 200m  |   No   |  2H   | 2 Actions |      1 (0) / --- / ---        |      1 Grenade     |  100   |   13   |  700cr  |       Fragmentation / Indirect       |
+|           ATGM-91 "SKYLANCE"           |  10d12 |  Piercing   | 1250m |  Yes   |  2H   | 4 Actions |     1 (+20) / --- / ---       | 1 Skylance Missle  | 98-100 |   48   | 25000cr |           Top Hitter / Slow          |
+|             SAM-6 Striker              |  8d10  |  Primitive  | 2500m |   No   |  2H   | 4 Actions |     1 (+20) / --- / ---       |  1 Striker Missle  | 97-100 |   22   |  5000cr |         Surface To Air / Slow        |
+|        Light Anti-Tank Weapon          |  5d10  |  Primitive  | 250m  |   No   |  2H   | 4 Actions |       1 (0) / --- / ---       | 1 Light A-T Missle |  100   |   15   |  100cr  |        Trusted / Fragmentation       |
 
 ## Energy Weapons
 
@@ -196,7 +200,6 @@ Energy weapons are prized for their pinpoint accuracy, minimal recoil, and clean
 |             Name              |      Damage     | Damage Type |  Range  | Impale | 1H/2H |  Reload  |            ROF             |      Mag     |    Jam    |  Weight |  Price  |                             Qualities                               |
 | :---------------------------: | :-------------: | :---------: | :-----: | :----: | :---: | :------: | :------------------------: | :----------: | :-------: | :-----: | :-----: | :-----------------------------------------------------------------: |
 |      LASER CANNON "NOVA"      |    6d8 / 6d6    |   Energy    |  1000m  |   No   |  2H   | 4 Action |        1 (0) / - / -       |   3 Charges  |   100     |   30    |  3000cr | Instant Hit / Advanced / Dispersion / Heavy (60)  / Suprise Hitter  |
-|     SENTRY LASER "HARRIER"    |    4D6 / 4D4    |   Energy    |  600m   |   No   |  ---  | 4 Action |       - / 4 (+15) / -      | 200 Charges  |  98-100   |   200   |  5000cr | Instant Hit / Advanced / Dispersion / Heavy (60)  / Suprise Hitter  |
 
 ## Electroagnetic Weapons
 
@@ -266,7 +269,7 @@ Flamethrowers and other incendiary systems use streams of ignited fuel to engulf
 
 |           Name              |     Damage    | Damage Type |  Range | Impale | 1H/2H |   Reload  |              ROF               |           Mag          |    Jam    |  Weight |  Price |          Qualities            |
 | :-------------------------: | :-----------: | :---------: | :----: | :----: | :---: | :-------: | :----------------------------: | :--------------------: | :-------: | :-----: | :----: | :---------------------------: |
-|    Flamethrower "Heater"    |      2d6      |    Energy   |  40m   |   No   |  2H   | 4 Actions | 1L (+10) / 4L (+20) / 8L (+30) |      40 L Napalm       |  96-100   |   65    |  500cr |             Fire              |
+|    FLAMETHROWER "HEATER"    |      2d6      |    Energy   |  40m   |   No   |  2H   | 4 Actions | 1L (+10) / 4L (+20) / 8L (+30) |      40 L Napalm       |  96-100   |   65    |  500cr |             Fire              |
 
 ### Heavy Arms - Heavy Weapons
 
@@ -274,7 +277,63 @@ Flamethrowers and other incendiary systems use streams of ignited fuel to engulf
 | :------------------------------: | :-----------: | :---------: | :----: | :----: | :---: | :-------: | :------------------------: | :--------------------: | :-------: | :-----: | :----: | :---------------------------: |
 | CONDENSED PLASMA THOWER "PEEBLE" |     5d10      |    Energy   |  150m  |   No   |  2H   | 4 Actions |     1 (0) / --- / ---      |    2 Plasma Charges    |  90-100   |   30    | 7000cr |      Grusome / Advanced       |
 
-## Weapons description and Availability
+## Melee Weapons
+
+Melee weapons make combat intimate and immediate — the clash of metal, the sickening impact of bone on bone, the hiss of a blade through cloth. They’re tools of precision and brutality: knives and brass knuckles for silent, surgical strikes; machetes and axes for savage, cleaving blows; staves and polearms for control, leverage and reach.
+
+Each weapon carries character as much as function. A compact blade feels clinical and precise in a hand; a heavy axe swings with filthy, exhausting force; an electric baton snaps with a stinging, incapacitating jolt. Concealable pieces whisper of espionage and surprise, gruesome blades leave a mark meant to intimidate, and shock weapons bring a short, terrifying burst of control. Up close, melee is personal — it’s about timing, intent, and the kind of violence you want to bring to the fight.
+
+### Short
+
+|              Name                |     Damage    | Damage Type | Range | Impale | 1H/2H |  Reload   |            ROF             |         Mag          |    Jam    | Weight | Price  |            Qualities             |
+| :------------------------------: | :-----------: | :---------: | :---: | :----: | :---: | :-------: | :------------------------: | :------------------: | :-------: | :----: | :----: | :------------------------------: |
+|          COMBAT KNIFE            |    1d4+1+DM   |  Primitive  | Short |  Yes   |  1H   |    ---    |            ---             |         ---          |  96-100   |   1    |  10cr  |       Precise / Concealable      |
+|          BRASS-KNUCKLE           |    1D4+2+DM   |  Primitive  | Short |   No   |  1H   |    ---    |            ---             |         ---          |  96-100   |   1    |   5cr  |           Concealable            |
+|     MONOBLADE COMBAT KNIFE       |    1d6+2+DM   |   Piercing  | Short |  Yes   |  1H   |    ---    |            ---             |         ---          |  96-100   |   1    |  150cr | Precise / Concealable / Gruesome |
+|       DAGGER "VIPER FANG"        |     1d4+DM    |  Primitive  | Short |  Yes   |  1H   |  1 Action |            ---             |        1 Dose        |  91-100   |   1    |  80cr  |  Precise / Concealable / Poison  |
+|             TASER                |       1d4     |    Energy   | Short |   No   |  1H   |    ---    |            ---             |      20 Charges      |  96-100   |   1    |  40cr  |       Shock / Concealable        |
+
+### Medium
+
+|              Name                |     Damage    | Damage Type | Range  | Impale | 1H/2H |  Reload   |            ROF             |         Mag          |    Jam    | Weight | Price  |          Qualities            |
+| :------------------------------: | :-----------: | :---------: | :----: | :----: | :---: | :-------: | :------------------------: | :------------------: | :-------: | :----: | :----: | :---------------------------: |
+|        Tactical Machete          |     1d8+DM    |  Primitive  | Medium |  Yes   |  1H   |    ---    |            ---             |         ---          |  96-100   |   3    |  10cr  |            Brutal             |
+|           Carbon Axe             |    1d10+DM    |  Primitive  | Medium |  Yes   |  1H   |    ---    |            ---             |         ---          |  96-100   |   5    |  60cr  |            Brutal             | 
+|         Monoblade Sword          |    1d10+2+DM  |   Piercing  | Medium |  Yes   |  1H   |    ---    |            ---             |         ---          |  96-100   |   4    |  500cr |           Precise             |
+|         Expandable Baton         |    1d6+1+DM   |  Primitive  | Medium |   No   |  1H   |    ---    |            ---             |         ---          |  96-100   |   1    |  60cr  |     Brutal / Concealable      |
+|           Shock Baton            |     1d8+DM    |    Energy   | Medium |   No   |  1H   |    ---    |            ---             |      20 Charges      |  96-100   |   5    |  80cr  |            Shock              |
+
+### Medium
+
+|              Name                |     Damage    | Damage Type | Range | Impale | 1H/2H |  Reload   |            ROF             |         Mag          |    Jam    | Weight | Price  |          Qualities            |
+| :------------------------------: | :-----------: | :---------: | :---: | :----: | :---: | :-------: | :------------------------: | :------------------: | :-------: | :----: | :----: | :---------------------------: |
+|           Shock Staff            |     1d8+DM    |    Energy   | Long  |   No   |  2H   |    ---    |            ---             |      40 Charges      |   96-100  |   10   |  150cr |            Shock              |
+|              Spear               |    1d10+DM    |  Primitive  | Long  |  Yes   |  2H   |    ---    |            ---             |         ---          |   96-100  |    7   |   60cr |           Precise             |
+
+## Explosive
+
+Explosive weapons embody chaos and control in equal measure — tools that reshape the battlefield with fire, pressure, and fragmentation. They turn confined spaces into kill zones and open ground into storms of shrapnel. Whether hurled, planted, or remotely triggered, these weapons unleash sudden bursts of devastation that few armors can withstand.
+
+Explosives are the language of destruction: fire to burn, shockwaves to shatter, and fragmentation to tear apart everything caught in their radius. They’re as effective for clearing rooms and breaking defenses as they are for creating terror and confusion. Crude or refined, handmade or military-grade, explosive weapons share one truth — once they go off, there’s no taking it back.
+
+### Throw
+
+|              Name                |     Damage    | Damage Type |    Range     | Impale | 1H/2H |  Reload   |            ROF             |         Mag          |    Jam    | Weight | Price  |            Qualities             |
+| :------------------------------: | :-----------: | :---------: | :----------: | :----: | :---: | :-------: | :------------------------: | :------------------: | :-------: | :----: | :----: | :------------------------------: |
+|         Melta Cocktail           |      2d6      |   Energy    | Str/5 meters |  No    |  1H   |    ---    |            ---             |         ---          |  95-100   |   2    |   3cr  |  Fire / Fragile / Fragmentation  |
+|          Frag Grenade            |      4d6      |  Primitive  | Str/5 meters |  Yes   |  1H   |    ---    |            ---             |         ---          |  99-100   |   1    |  35cr  |          Fragmentation           |
+|         Dynamite Stick           |      4d6      |  Primitive  | Str/5 meters |  Yes   |  2H   |    ---    |            ---             |         ---          |  90-100   |   1    |  10cr  |          Fragmentation           |
+
+### Demolition
+
+|              Name                |     Damage    | Damage Type |     Range    | Impale | 1H/2H |  Reload   |            ROF             |         Mag          |    Jam    | Weight | Price  |            Qualities             |
+| :------------------------------: | :-----------: | :---------: | :----------: | :----: | :---: | :-------: | :------------------------: | :------------------: | :-------: | :----: | :----: | :------------------------------: |
+|           Pipe Bomb              |      1d10     |  Primitive  | Str/5 meters |  Yes   |  2H   |    ---    |            ---             |         ---          |  90-100   |   3    |   5cr  |     Fragmentation / Gruesome     |
+|            Platique              |      6d10     |  Primitive  | Str/5 meters |   No   |  2H   |    ---    |            ---             |         ---          |  99-100   |   1    |  120cr |          Fragmentation           |
+|       Anti-Personal Mine         |      4d10     |  Primitive  |      ---     |   No   |  2H   |    ---    |            ---             |         ---          |  99-100   |   4    |  35cr  |          Fragmentation           |
+|          Claymore Mine           |      6d6      |  Primitive  |      ---     |  Yes   |  2H   |    ---    |            ---             |         ---          |  99-100   |   5    |  60cr  |     Fragmentation / Gruesome     |
+
+## Weapons description
 
 ### Conventional - Handguns
 
@@ -347,5 +406,105 @@ Flamethrowers and other incendiary systems use streams of ignited fuel to engulf
 | ANTI-MATERIAL RIFLE K.A.C. “REAPER”      | <img src="https://i.postimg.cc/xdtpVVZ9/ANTI-MATERIAL-RIFLE-K-A-C-REAPER.jpg" alt="A Heavy Weapon"> | Semi-automatic anti-material rifle firing heavy sabot rounds to disable equipment and light armor. Specialist weapon—big punch, big recoil, limited ammo. |
 | VERY HEAVY MACHINE GUN BLACKTUSK XG-91   | <img src="https://i.postimg.cc/9fJgHHkX/VERY-HEAVY-MACHINE-GUN-BLACKTUSK-XG-91.jpg" alt="A Heavy Weapon"> | .50-class heavy machine gun for long-range interdiction and vehicle disabling. Requires mount and crew; widely used where stopping power is critical. |
 | ROTARY CANNON GAU-3 “CYCLOPS”            | <img src="https://i.postimg.cc/SKD1bbPy/ROTARY-CANNON-GAU-3-CYCLOPS.jpg" alt="A Heavy Weapon"> | High-rate rotary cannon for vehicle and air mounts; enormous volume of fire for suppression or anti-light-armour work. Power-hungry and logistics intensive but tactically decisive. |
+|         HG-45 Grenade Launcher           | <img src="https://i.postimg.cc/L5zNsr87/HK-45-Grrenade-Luncher.jpg" alt="A Heavy Weapon"> | Single-shot, break-action grenade launcher firing 40–45mm fragmentation rounds. Simple, reliable and brutally effective for area denial and room clearing; rounds include frag, smoke, and short-range indirect ammo. Light and cheap compared to missile systems, but limited to one shot before a reload and dangerous in enclosed spaces. Favored by patrols, vehicle crews and guerrilla squads for its low logistics burden and high tactical value. |
+|           ATGM-91 “SKYLANCE”             | <img src="https://i.postimg.cc/VvjDN3Ny/ATGM-91-Skylance.jpg" alt="A Heavy Weapon"> | Fire-and-forget anti-tank missile with top-attack profile and imaging seeker. Designed to crest vehicle roofs or strike vulnerable modules from above; heavy, expensive and trained-operator friendly. Excellent for ambushes and static defense: one guided missile can neutralize armored vehicles or fortified positions. Slow to ready and costly to replace — ideal as a strategic asset rather than a disposable squad tool. |
+|            SAM-6 “STRIKER”               | <img src="https://i.postimg.cc/4yzB3rxq/SAM-6-STRIKER.jpg" alt="A Heavy Weapon"> | Man-portable surface-to-air missile with passive infrared seeker for engaging aircraft, drones and rotorcraft. Lightweight and quick to deploy for point defense; extremely effective against low-altitude threats but less reliable in cluttered thermal environments (urban heat, flares). Requires operator discipline and basic AA training; missiles are single-use and expensive but can change air superiority locally. |
+|          Light Anti-Tank Weapon          | <img src="https://i.postimg.cc/5ywntZ2Z/Light-Anti-Tank-Weapon.jpg" alt="A Heavy Weapon"> | Unguided recoilless rocket launcher firing shaped charges or fragmentation warheads. Rugged, cheap and widely produced — effective at close ranges against light armor, fortifications and vehicles when employed with ambush tactics. Simple optics and diverse warhead options make it a frontline favorite for irregulars and low-tech forces; backblast and arming distance create tactical constraints in confined spaces. |
+
+### Energy - Handgun
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|              LASER PISTOL “BEE”          | <img src="https://i.postimg.cc/T27TCPXM/LASER-PISTOL-BEE.jpg" alt="a handgun"> | Pocket beam sidearm with a tight, short-burst pulse. Cheap, reliable and tuned for quick surprise shots; light thermal footprint but limited sustained fire. | 
+|             LASER PISTOL “WASP”          | <img src="https://i.postimg.cc/htwJwrWR/LASER-PISTOL-WASP.jpg" alt="a handgun"> | Slightly larger pulse pistol with a harder-hitting focal array. Better effective range and punch than the Bee; trades extra mass for deeper penetration against soft composites. |
+|             LASER PISTOL “MIDGE”         | <img src="https://i.postimg.cc/BZYJMvf7/LASER-PISTOL-MIDGE.jpg" alt="a handgun"> | Micro emitter for deepest concealment. Low-power, subsonic-style pulse for minimal hull breach risk; ideal for stealth or sabotage where you can’t afford a kinetic hole. |
+
+### Energy - Submachine
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|         LASER CARBINE “SPARROW”          | <img src="https://i.postimg.cc/9XtLh4fm/LASER-CARBINE-SPARROW.jpg" alt="a submachine"> | Compact carbine with an adaptive lens stack allowing short bursts or controlled micro-bolts. Lightweight and ideal for rapid room-to-room work; moderate heat sinks limit sustained fire. |
+|         LASER CARBINE “SWALLOW”          | <img src="https://i.postimg.cc/KvDwJqTT/LASER-CARBINE-SWALLOW.jpg" alt="a submachine"> | Balanced mid-range carbine with emphasis on accuracy and low dispersion. Stable on optics and easy to integrate with smart-round-linkers. |
+|           LASER CARBINE “TIT”            | <img src="https://i.postimg.cc/ncGg0Rm1/LASER-CARBINE-TIT.jpg" alt="a submachine"> | uned for higher single-shot power and slightly longer reach. Heavier emitter and larger capacitors; excels at punching through light armor at short-to-medium ranges |
+
+### Energy - Rifle
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|        LASER BULLPUP RIFLE “EAGLE”       | <img src="https://i.postimg.cc/tR5NcLr9/LASER-BULLPUP-RIFLE-EAGLE.jpg" alt="a rifle"> | Compact rifle delivering rifle-ballistics in a short package via high-coherence beams. Good balance of range, handling, and battery life. |
+|           LASER RIFLE “FALCON”           | <img src="https://i.postimg.cc/pXLJMq7P/LASER-RIFLE-FALCON.jpg" alt="a rifle"> | Full-length service rifle with tight beam focus and robust thermal regulation. Designed for squad-level engagements and longer sight-lines. |
+|        LASER SNIPER RIFLE “HAWK”         | <img src="https://i.postimg.cc/mZwyn0dc/LASER-SNIPER-RIFLE-HAWK.jpg" alt="a rifle"> | Long-range precision platform using ultra-stabilized pulse sequences and progressive focusing. Minimal dispersion and powerful single-shot effect; long cooldowns and very low shot count per charge pack. |
+|          LASER RIFLE “HELLGUN”           | <img src="https://i.postimg.cc/rpwcLdWR/LASER-RIFLE-HELLGUN.jpg" alt="a rifle"> | Compact heavy-energy rifle emphasizing raw burst energy over range. High per-shot output with significant thermal bleed. |
+
+### Energy - Machinegun
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|       HEAVY LASER REPEATER “RAPTOR”      | <img src="https://i.postimg.cc/zD0CJ69L/HEAVY-LASER-REPEATER-RAPTOR.jpg" alt="a machinegun"> | Belt/cluster-fed repeater that converts capacitor banks into high-cadence directed-energy bursts. Designed for sustained suppression; needs serious cooling and power feed |
+
+### Energy - Heavy Weapons
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|         LASER CANNON “NOVA”              | <img src="https://i.postimg.cc/Zq4nvKNv/LASER-CANNON-NOVA.jpg" alt="a heavy weapons"> | Large emplacement/vehicle cannon pushing concentrated, long-range pulses capable of shredding light armor or cutting structural plate. Few shots but massive effect; requires stabilized mount and cooling loop |
+
+### Electromagnetics - Handguns
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|      HANDGUN RAILGUN I-40 “ZIPPER”       | <img src="https://i.postimg.cc/y6RFRjrB/RAILGUN-I-40-ZIPPER.jpg" alt="a handgun"> | Compact magnetic-accelerator pistol firing tungsten micro-bolts at extreme velocity. Near-silent discharge, immense armor penetration, but heavy recoil and rapid coil wear. Popular among covert agents and boarding crews where reliability trumps comfort. |
+
+### Electromagnetics - Submachines
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|    SUBMACHINE GUN COIL GUN “SNAPPER”     | <img src="https://i.postimg.cc/7LbzZnT9/COIL-GUN-SNAPPER.jpg" alt="a submachine"> | Light electromagnetic PDW using sequential coil acceleration for stable bursts. Fires hyper-dense alloy slugs with minimal recoil signature. Excellent in close-quarters or ship corridors where conventional gunpowder is restricted. |
+|         COIL GUN “GUTTERSPARK”           | <img src="https://i.postimg.cc/7LbzZnTX/COIL-GUN-HUTTERSPARK.jpg" alt="a handgun"> | Full-sized automatic coil submachinegun with advanced flux regulators. Offers steady fire with adjustable amperage for increased penetration. Emits visible corona flashes on overcharge — spectacular, and lethal. |
+
+### Electromagnetics - Shotguns
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|         COIL SHOTGUN “MUSHROOM”          | <img src="https://i.postimg.cc/D0c0gSXq/COIL-SHOTGUN-MUSHROOM.jpg" alt="a shotgun"> | Short-range scatter platform that magnetically launches a cluster of conductive flechettes. Offers selectable fragmentation or solid slug fire. Brutal indoors, devastating in gravity-well boarding operations. |
+|       COIL SHOTGUN “THUNDERPIPE”         | <img src="https://i.postimg.cc/RhThRWHQ/COIL-SHOTGUN-THUNDERPIPE.jpg" alt="a shotgun"> | Extended-barrel magnetic shotgun with enhanced range and two-stage capacitor release. Delivers a dense slug or wide-spread metal storm; infamous for its sonic crack and muzzle flash halo. |
+
+### Electromagnetics - Rifles
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|       RAILGUN S-97 “LONGSPEAR”           | <img src="https://i.postimg.cc/qBmd8ctt/RAILGUN-S97-LONGSPEAR.jpg" alt="a rifle"> | Precision rail rifle capable of hypersonic velocities. Designed for planetary defense and exo-armor penetration at half a kilometer. Long charge time, but one clean hit disables most hard targets. |
+|          RAILGUN “STRIX-44”              | <img src="https://i.postimg.cc/fWHhx73k/RAILGUN-STRIX-44.jpg" alt="a rifle"> | Heavy rail precision platform firing stabilized ferric rods at near-orbital velocities. Exceptional range and penetration, but heat buildup demands strict shot pacing. Used by marksmen in vacuum operations. |
+
+### Electromagnetics - Heavy Weapons
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|            RAILGUN “PUNCH”               | <img src="https://i.postimg.cc/wMrPnVJb/RAILGUN-PUNCH.jpg" alt="a Heavy Weapon"> | Crew-handled anti-vehicle weapon. Fires dense penetrators capable of breaching armored hulls and bunkers alike. Generates a magnetic shockwave audible across battlefields — “you don’t hear it, you feel it.” |
+|           COIL CANNON “MULE”             | <img src="https://i.postimg.cc/VvhT2Rn1/COIL-CANNON-MULE.jpg" alt="a handgun"> | Electromagnetic heavy launcher optimized for continuous battlefield support. Uses rotating coil arrays to fire massive conductive bolts. Lower velocity than a true railgun, but more tolerant to dust and field damage. |
+|            RAILGUN “ZEALOT”              | <img src="https://i.postimg.cc/d3fXgBdp/RAILGUN-ZEALOT.jpg" alt="a handgun"> | Flagship heavy rail system — a man-portable only in theory. Fires hyper-dense projectiles at relativistic speeds. Each discharge lights the horizon; each impact reshapes terrain. Reserved for orbital drops or fortress defense. |
+
+### Thermal - Handguns
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|         Plasma Pistol "Thunder"          | <img src="https://i.postimg.cc/YqR9JLyF/LIGHT-PLASMA-PISTOL-THUNDER-LM.jpg" alt="a handgun"> | A short-range, high-energy handheld plasma emitter. Fires condensed plasma bolts that tear and cauterize on impact — brutal wound profiles and heavy thermal damage. Compact containment coils make it field-portable but prone to overheating under sustained fire. |
+|    Light Plasma Pistol “THUNDER LM”      | <img src="https://i.postimg.cc/TY0wZ5HD/PLASMA-PISTOL-THUNDER.webp" alt="a handgun"> | Scaled-down Thunder with a cooler emitter and longer charge life. Trades peak punch for better handling and more shots per capacitor pack. Favored where weight and thermal control matter (security patrols, shipboard duty). |
+
+### Thermal - Rifles
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|         Plasma Rifle “BOULDER”           | <img src="https://i.postimg.cc/wjP6pX5V/PLASMA-RIFLE-BOULDER.jpg" alt="a submachine"> | Mid-range plasma carbine with larger capacitors and reinforced containment. Delivers concentrated bolts capable of igniting fabrics and warping light armor at 80 m. Requires active coolant flow for extended engagements; maintenance demands optical alignment and coil health checks. |
+
+### Thermal - Flamethrowers
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|          Flamethrower “HEATER”           | <img src="https://i.postimg.cc/6qGrMLhg/HEATER.jpg" alt="a Flamethrower"> | Durable fuel projector that sprays napalm-like gel or pyrolized slurry. Short effective range but area-denial mastery — ideal for clearing tunnels, anti-personnel suppression, and denying cover. Fuel tanks are heavy and volatile; crew discipline and spare seals are mandatory. |
+
+### Thermal - Heavy Weapons
+
+|                  Name                    | Reference Picture | Description |
+| :--------------------------------------: | :----------------:| :---------: |
+|     Condensed Plasma Thrower “PEBBLE”    | <img src="https://i.postimg.cc/GphSqVTF/99cb9c952d27848f07e832dcec690178.jpg" alt="a Heavy Weapon"> | A heavy thermal cannon compressing and projecting quasi-stable plasma slugs. Each shot delivers massive localized heat and shock; capable of cutting through light armor and scorching vehicle internals. Enormous energy draw and thermal backwash require vehicle mounts or backpack power cores. |
 
 </div>
