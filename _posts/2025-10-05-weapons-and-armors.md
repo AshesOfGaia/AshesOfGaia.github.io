@@ -455,6 +455,7 @@ Explosives are the language of destruction: fire to burn, shockwaves to shatter,
 |      HANDGUN RAILGUN I-40 “ZIPPER”       | <img src="https://i.postimg.cc/y6RFRjrB/RAILGUN-I-40-ZIPPER.jpg" alt="a handgun"> | Compact magnetic-accelerator pistol firing tungsten micro-bolts at extreme velocity. Near-silent discharge, immense armor penetration, but heavy recoil and rapid coil wear. Popular among covert agents and boarding crews where reliability trumps comfort. |
 
 ### Electromagnetics - Submachines
+
 |                  Name                    | Reference Picture | Description |
 | :--------------------------------------: | :----------------:| :---------: |
 |    SUBMACHINE GUN COIL GUN “SNAPPER”     | <img src="https://i.postimg.cc/7LbzZnT9/COIL-GUN-SNAPPER.jpg" alt="a submachine"> | Light electromagnetic PDW using sequential coil acceleration for stable bursts. Fires hyper-dense alloy slugs with minimal recoil signature. Excellent in close-quarters or ship corridors where conventional gunpowder is restricted. |
