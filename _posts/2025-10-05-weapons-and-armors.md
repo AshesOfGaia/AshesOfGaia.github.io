@@ -292,60 +292,60 @@ Flamethrowers and other incendiary systems use streams of ignited fuel to engulf
 
 |            Name              | Reference Picture | Description |
 | :--------------------------: | :----------------:| :---------: |
-|    SUBMACHINE F.A.P.3        | <img src="https://i.postimg.cc/Hn32Gwnj/SUBMACHINE-F-A-P-3.jpg"> | Compact, robust SMG using short, controlled-impulse rounds; excellent for tight spaces and boarding teams. Cheap, easy to repair, and tolerant of contamination. |
-|    SUBMACHINE VRS-9          | <img src="https://i.postimg.cc/qqQLfsq6/SUBMACHINE-VRS-9.jpg"> | Squad-level SMG refined for suppressed ops and optics integration. Good balance of controllability and accuracy in urban/indoor fights. |
-|    SUBMACHINE SMR-10         | <img src="https://i.postimg.cc/SRVr06Rn/SUBMACHINE-SMR-10.jpg"> | Lightweight PDW with excellent ergonomics and modular rails; works well with smart-ammo linkers and drone control rigs. Fast handling for hit-and-run teams. |
-|    SUBMACHINE MPZ-7          | <img src="https://i.postimg.cc/rsqJYnV1/SUBMACHINE-MPZ-7.jpg"> | Bullpup PDW with high magazine capacity and compact profile; optimized for armor-piercing micro-sabots in a small package. Ideal for vehicle crews and VIP details. |
-|    SUBMACHINE FNT-5          | <img src="https://i.postimg.cc/d3nBM237/SUBMACHINE-FNT-5.jpg"> | Tiny, high-rate machine pistol augmented with dampers — devastating at point-blank but wildly inefficient at range. Cheap and disposable; common in short-term black-market use. |
-|    SUBMACHINE TTK-11         | <img src="https://i.postimg.cc/d3nBM23k/SUBMACHINE-TTK-11.jpg"> | Low-signature tactical PDW with programmable burst modes and adaptive recoil control. Suited for bodyguard units and clandestine teams who need controllable automatic fire. |
+|    SUBMACHINE F.A.P.3        | <img src="https://i.postimg.cc/Hn32Gwnj/SUBMACHINE-F-A-P-3.jpg" alt="A submachine"> | Compact, robust SMG using short, controlled-impulse rounds; excellent for tight spaces and boarding teams. Cheap, easy to repair, and tolerant of contamination. |
+|    SUBMACHINE VRS-9          | <img src="https://i.postimg.cc/qqQLfsq6/SUBMACHINE-VRS-9.jpg" alt="A submachine"> | Squad-level SMG refined for suppressed ops and optics integration. Good balance of controllability and accuracy in urban/indoor fights. |
+|    SUBMACHINE SMR-10         | <img src="https://i.postimg.cc/SRVr06Rn/SUBMACHINE-SMR-10.jpg" alt="A submachine"> | Lightweight PDW with excellent ergonomics and modular rails; works well with smart-ammo linkers and drone control rigs. Fast handling for hit-and-run teams. |
+|    SUBMACHINE MPZ-7          | <img src="https://i.postimg.cc/rsqJYnV1/SUBMACHINE-MPZ-7.jpg" alt="A submachine"> | Bullpup PDW with high magazine capacity and compact profile; optimized for armor-piercing micro-sabots in a small package. Ideal for vehicle crews and VIP details. |
+|    SUBMACHINE FNT-5          | <img src="https://i.postimg.cc/d3nBM237/SUBMACHINE-FNT-5.jpg" alt="A submachine"> | Tiny, high-rate machine pistol augmented with dampers — devastating at point-blank but wildly inefficient at range. Cheap and disposable; common in short-term black-market use. |
+|    SUBMACHINE TTK-11         | <img src="https://i.postimg.cc/d3nBM23k/SUBMACHINE-TTK-11.jpg" alt="A submachine"> | Low-signature tactical PDW with programmable burst modes and adaptive recoil control. Suited for bodyguard units and clandestine teams who need controllable automatic fire. |
 
 ### Conventional - Shotguns
 
 |            Name              | Reference Picture | Description |
 | :--------------------------: | :----------------:| :---------: |
-| PUMP ACTION P.A. 60 12-GAUGE | <img src="https://i.postimg.cc/ZY3nfb2m/PUMP-ACTION-P-A-60-12-GAUGE.jpg"> | Hybrid pump/semi auto shotgun with interchangeable gas settings for different loads. Versatile and reliable across dust, vacuum-airlock transitions, and extreme temps. |
-|      PUMP ACTION P.A 19      | <img src="https://i.postimg.cc/wxJMWqZ6/PUMP-ACTION-P-A-19.jpg"> | Field-proven pump shotgun: simple, cheap, and brutally effective up close. Easy to maintain in the field and tolerant of imperfect ammo. |
-|      AUTOMATIC BULLPUP M25   | <img src="https://i.postimg.cc/L4f5y9w6/AUTOMATIC-BULLPUP-M25.webp"> | Compact bullpup scattergun with dual tube feeds for quick ammo switching (slug ↔ flechette). Maneuverable with a high short-range punch. |
-|    LEVER-ACTION SG “JACKAL”  | <img src="https://i.postimg.cc/QN5C68wr/LEVER-ACTION-SG-JACKAL.jpg"> | Heritage lever-action retooled in modern alloys for frontier reliability. Slow compared to modern systems but favored where simplicity and battlefield reparability matter. |
-|    AUTOMNATIC S.A 74         | <img src="https://i.postimg.cc/nrvLM2Bw/AUTOMNATIC-S-A-74.jpg"> | Magazine-fed combat shotgun with reinforced action for full-auto use. High close-range firepower for breaching and suppression; punishing recoil. |
-|  BREAK-ACTION “JUDGE 2X”     | <img src="https://i.postimg.cc/JnCVtLxV/BREAK-ACTION-JUDGE-2-X.jpg"> | Simple twin-barrel hammer gun firing heavy shot or micro-flechettes. No electronics, minimal maintenance — preferred in austere settlements. |
-|  A.A. 32 12-GAUGE            | <img src="https://i.postimg.cc/BbxvtpHm/A-A-32-12-GAUGE.jpg"> | Fully-automatic combat shotgun engineered for sustained fire with reduced recoil. Devastating at short ranges; logistics heavy due to ammo consumption. |
+| PUMP ACTION P.A. 60 12-GAUGE | <img src="https://i.postimg.cc/ZY3nfb2m/PUMP-ACTION-P-A-60-12-GAUGE.jpg" alt="A shotgun"> | Hybrid pump/semi auto shotgun with interchangeable gas settings for different loads. Versatile and reliable across dust, vacuum-airlock transitions, and extreme temps. |
+|      PUMP ACTION P.A 19      | <img src="https://i.postimg.cc/wxJMWqZ6/PUMP-ACTION-P-A-19.jpg" alt="A shotgun"> | Field-proven pump shotgun: simple, cheap, and brutally effective up close. Easy to maintain in the field and tolerant of imperfect ammo. |
+|      AUTOMATIC BULLPUP M25   | <img src="https://i.postimg.cc/L4f5y9w6/AUTOMATIC-BULLPUP-M25.webp" alt="A shotgun"> | Compact bullpup scattergun with dual tube feeds for quick ammo switching (slug ↔ flechette). Maneuverable with a high short-range punch. |
+|    LEVER-ACTION SG “JACKAL”  | <img src="https://i.postimg.cc/QN5C68wr/LEVER-ACTION-SG-JACKAL.jpg" alt="A shotgun"> | Heritage lever-action retooled in modern alloys for frontier reliability. Slow compared to modern systems but favored where simplicity and battlefield reparability matter. |
+|    AUTOMNATIC S.A 74         | <img src="https://i.postimg.cc/nrvLM2Bw/AUTOMNATIC-S-A-74.jpg" alt="A shotgun"> | Magazine-fed combat shotgun with reinforced action for full-auto use. High close-range firepower for breaching and suppression; punishing recoil. |
+|  BREAK-ACTION “JUDGE 2X”     | <img src="https://i.postimg.cc/JnCVtLxV/BREAK-ACTION-JUDGE-2-X.jpg" alt="A shotgun"> | Simple twin-barrel hammer gun firing heavy shot or micro-flechettes. No electronics, minimal maintenance — preferred in austere settlements. |
+|  A.A. 32 12-GAUGE            | <img src="https://i.postimg.cc/BbxvtpHm/A-A-32-12-GAUGE.jpg" alt="A shotgun"> | Fully-automatic combat shotgun engineered for sustained fire with reduced recoil. Devastating at short ranges; logistics heavy due to ammo consumption. |
 
-### Conventional - Rifle
-
-|            Name              | Reference Picture | Description |
-| :--------------------------: | :----------------:| :---------: |
-|    ASSAULT RIFLE C.E.R.A.    | <img src="https://i.postimg.cc/wBd0mTCT/ASSAULT-RIFLE-C-E-R-A.jpg"> | Rugged, loose-tolerance assault rifle reimagined with self-lubricating polymers and sealed magazines. Survives neglect and harsh environments where complex weapons fail. |
-|    RIFLE GORRO M2T1          | <img src="https://i.postimg.cc/bvj3tN7Z/RIFLE-GORRO-M2-T1.jpg"> | Semi-auto battle rifle with durable internals; good single-shot power and long service life. Favored by militias and marksmen who prize raw energy per shot. |
-| ASSAULT RIFLE RNG-13 “LEGATE”| <img src="https://i.postimg.cc/7Lym2YFh/ASSAULT-RIFLE-RNG-13-LEGATE.jpg"> | Modern modular service rifle with accurate barrel harmonics and optics integration. Suited for mid-range engagements and standardized logistics. |
-|  ASSAULT RIFLE AUG-TX2       | <img src="https://i.postimg.cc/N0wpHf3G/ASSAULT-RIFLE-AUG-TX2.jpg"> | Bullpup service rifle offering full-rifle ballistics in a compact footprint. Good for vehicle crews and close-quarters fighting without sacrificing range. |
-|  RIFLE SR-22 “GHOUL”         | <img src="https://i.postimg.cc/mrG8H2vc/RIFLE-SR-22-GHOUL.jpg"> | Semi-auto designated marksman rifle tuned for long-range suppression and quick follow-ups. Often paired with spotter-drones for effective overwatch. |
-| ASSAULT RIFLE FAL-X “BRUTUS” | <img src="https://i.postimg.cc/FHSTzJBJ/ASSAULT-RIFLE-FAL-X-BRUTUS.jpg"> | Heavy-caliber battle rifle with high-impact rounds; trades weight for stopping power and range. Used against hardened infantry and light-armored targets. |
-| ASSAULT RIFLE SRB-92         | <img src="https://i.postimg.cc/HLCBysqM/RIFLE-SRB-92.jpg"> | Bolt-action precision rifle converted for modern optics and ballistic computers. Exceptional single-shot lethality from fixed positions. |
-| RIFLE VLK-77 “CZERN”         | <img src="https://i.postimg.cc/s2RwhDkY/RIFLE-VLK-77-CZERN.png"> | Classic bolt action refurbished with modern metallurgy and match barrels. Extremely accurate when hand-tuned; common in honed marksman roles. |
-| RIFLE MRX-500 “SOVEREIGN”    | <img src="https://i.postimg.cc/N0wpHf39/RIFLE-MRX-500-SOVEREIGN.jpg"> | Anti-material/sniper rifle firing long-range magnum rounds with advanced ballistic correction. Heavy, slow to operate, designed for disabling gear and distant high-value targets. |
-|          RIFLE MCR-9         | <img src="https://i.postimg.cc/YSwbWq5W/RIFLE-MCR-9.jpg"> | Modular carbine emphasizing lightweight frames and quick reconfiguration; accepts short barrels, suppressors, and smart optics. Built around pragmatic engineering rather than exotic tech. |
-|  ASSAULT RIFLE T3045M2       | <img src="https://i.postimg.cc/N0wpHf3M/ASSAULT-RIFLE-T3045-M2.jpg"> | Experimental caseless-ammo rifle with advanced heat management; rare but potent where logistics allow. High theoretical capacity but temperamental in field conditions. |
-
-### Conventional - Rifle
+### Conventional - Rifles
 
 |            Name              | Reference Picture | Description |
 | :--------------------------: | :----------------:| :---------: |
-|    LMG MODEL 3180    | <img src="https://i.postimg.cc/J0msNS16/LMG-MODEL-3180.jpg"> | High-cyclic light machine gun for area suppression; feeds from belts and needs barrel changes under sustained fire. Devastating for pinned defenses and convoy interdiction. |
-|    LMG BGR-77    | <img src="https://i.postimg.cc/FzmYyw9p/LMG-BGR-77.jpg"> | General-purpose machine gun: reliable, easy to produce, and effective on bipods and mounts. Favored for long patrols and vehicle armoring. |
-|    MG C.870 “SANDSTORM”    | <img src="https://i.postimg.cc/fyZVc1wP/MG-C-870-SANDSTORM.jpg"> | Durable GPMG used as both vehicular and dismounted support. Balanced rate, sustained accuracy, and proven logistics. |
-|   LMG MPG-55     | <img src="https://i.postimg.cc/gjdxV1Yg/LMG-MPG-55.jpg"> | Modern LMG built for mobility with good heat dissipation and feed reliability. Works where squads need sustained fire without a full crew. |
-|   HMG T.S.R. 42 “HELLWAKE”     | <img src="https://i.postimg.cc/QCsFQvX6/HMG-T-S-R-42-HELLWAKE.jpg"> | Electrically driven multi-barrel gun delivering extreme rates of fire from vehicle mounts. Requires power and cooling but obliterates soft targets and suppresses airspace. |
-|  LMG BRU-2      | <img src="https://i.postimg.cc/HnHrwFp3/LMG-BRU-2.jpg"> | Squad automatic weapon derived from a service rifle: lighter and simpler than GPMGs, ideal for mobile infantry squads. |
-|   LMG “TROUT” MK.1     | <img src="https://i.postimg.cc/prxmf32q/LMG-TROUT-MK-1.jpg"> | Portable SAW optimized for quick movement and sustained belt feeding. Workhorse for small units needing organic fire superiority. |
+|    ASSAULT RIFLE C.E.R.A.    | <img src="https://i.postimg.cc/wBd0mTCT/ASSAULT-RIFLE-C-E-R-A.jpg" alt="A rifle"> | Rugged, loose-tolerance assault rifle reimagined with self-lubricating polymers and sealed magazines. Survives neglect and harsh environments where complex weapons fail. |
+|    RIFLE GORRO M2T1          | <img src="https://i.postimg.cc/bvj3tN7Z/RIFLE-GORRO-M2-T1.jpg" alt="A rifle">> | Semi-auto battle rifle with durable internals; good single-shot power and long service life. Favored by militias and marksmen who prize raw energy per shot. |
+| ASSAULT RIFLE RNG-13 “LEGATE”| <img src="https://i.postimg.cc/7Lym2YFh/ASSAULT-RIFLE-RNG-13-LEGATE.jpg" alt="A rifle">> | Modern modular service rifle with accurate barrel harmonics and optics integration. Suited for mid-range engagements and standardized logistics. |
+|  ASSAULT RIFLE AUG-TX2       | <img src="https://i.postimg.cc/N0wpHf3G/ASSAULT-RIFLE-AUG-TX2.jpg" alt="A rifle">> | Bullpup service rifle offering full-rifle ballistics in a compact footprint. Good for vehicle crews and close-quarters fighting without sacrificing range. |
+|  RIFLE SR-22 “GHOUL”         | <img src="https://i.postimg.cc/mrG8H2vc/RIFLE-SR-22-GHOUL.jpg" alt="A rifle">> | Semi-auto designated marksman rifle tuned for long-range suppression and quick follow-ups. Often paired with spotter-drones for effective overwatch. |
+| ASSAULT RIFLE FAL-X “BRUTUS” | <img src="https://i.postimg.cc/FHSTzJBJ/ASSAULT-RIFLE-FAL-X-BRUTUS.jpg" alt="A rifle">> | Heavy-caliber battle rifle with high-impact rounds; trades weight for stopping power and range. Used against hardened infantry and light-armored targets. |
+| ASSAULT RIFLE SRB-92         | <img src="https://i.postimg.cc/HLCBysqM/RIFLE-SRB-92.jpg" alt="A rifle">> | Bolt-action precision rifle converted for modern optics and ballistic computers. Exceptional single-shot lethality from fixed positions. |
+| RIFLE VLK-77 “CZERN”         | <img src="https://i.postimg.cc/s2RwhDkY/RIFLE-VLK-77-CZERN.png" alt="A rifle">> | Classic bolt action refurbished with modern metallurgy and match barrels. Extremely accurate when hand-tuned; common in honed marksman roles. |
+| RIFLE MRX-500 “SOVEREIGN”    | <img src="https://i.postimg.cc/N0wpHf39/RIFLE-MRX-500-SOVEREIGN.jpg" alt="A rifle">> | Anti-material/sniper rifle firing long-range magnum rounds with advanced ballistic correction. Heavy, slow to operate, designed for disabling gear and distant high-value targets. |
+|          RIFLE MCR-9         | <img src="https://i.postimg.cc/YSwbWq5W/RIFLE-MCR-9.jpg" alt="A rifle">> | Modular carbine emphasizing lightweight frames and quick reconfiguration; accepts short barrels, suppressors, and smart optics. Built around pragmatic engineering rather than exotic tech. |
+|  ASSAULT RIFLE T3045M2       | <img src="https://i.postimg.cc/N0wpHf3M/ASSAULT-RIFLE-T3045-M2.jpg" alt="A rifle">> | Experimental caseless-ammo rifle with advanced heat management; rare but potent where logistics allow. High theoretical capacity but temperamental in field conditions. |
+
+### Conventional - Machine Guns
+
+|            Name              | Reference Picture | Description |
+| :--------------------------: | :----------------:| :---------: |
+|    LMG MODEL 3180    | <img src="https://i.postimg.cc/J0msNS16/LMG-MODEL-3180.jpg" alt="A Machine Gun"> | High-cyclic light machine gun for area suppression; feeds from belts and needs barrel changes under sustained fire. Devastating for pinned defenses and convoy interdiction. |
+|    LMG BGR-77    | <img src="https://i.postimg.cc/FzmYyw9p/LMG-BGR-77.jpg" alt="A Machine Gun"> | General-purpose machine gun: reliable, easy to produce, and effective on bipods and mounts. Favored for long patrols and vehicle armoring. |
+|    MG C.870 “SANDSTORM”    | <img src="https://i.postimg.cc/fyZVc1wP/MG-C-870-SANDSTORM.jpg" alt="A Machine Gun"> | Durable GPMG used as both vehicular and dismounted support. Balanced rate, sustained accuracy, and proven logistics. |
+|   LMG MPG-55     | <img src="https://i.postimg.cc/gjdxV1Yg/LMG-MPG-55.jpg" alt="A Machine Gun"> | Modern LMG built for mobility with good heat dissipation and feed reliability. Works where squads need sustained fire without a full crew. |
+|   HMG T.S.R. 42 “HELLWAKE”     | <img src="https://i.postimg.cc/QCsFQvX6/HMG-T-S-R-42-HELLWAKE.jpg" alt="A Machine Gun"> | Electrically driven multi-barrel gun delivering extreme rates of fire from vehicle mounts. Requires power and cooling but obliterates soft targets and suppresses airspace. |
+|  LMG BRU-2      | <img src="https://i.postimg.cc/HnHrwFp3/LMG-BRU-2.jpg" alt="A Machine Gun"> | Squad automatic weapon derived from a service rifle: lighter and simpler than GPMGs, ideal for mobile infantry squads. |
+|   LMG “TROUT” MK.1     | <img src="https://i.postimg.cc/prxmf32q/LMG-TROUT-MK-1.jpg" alt="A Machine Gun"> | Portable SAW optimized for quick movement and sustained belt feeding. Workhorse for small units needing organic fire superiority. |
 
 ### Conventional - Heavy Weapons
 
 |                  Name                    | Reference Picture | Description |
 | :--------------------------------------: | :----------------:| :---------: |
-| H.C.A.C (Heavy Caliber Assault Cannon)   | <img src="https://i.postimg.cc/VNDZPPhf/H-C-A-C-Heavy-Caliber-Assault-Cannon.jpg"> | Large-caliber heavy machine/assault cannon for anti-material roles. Vehicle or fixed mount; long range and tremendous terminal effect. |
-| ANTI-MATERIAL RIFLE K.A.C. “REAPER”      | <img src="https://i.postimg.cc/xdtpVVZ9/ANTI-MATERIAL-RIFLE-K-A-C-REAPER.jpg"> | Semi-automatic anti-material rifle firing heavy sabot rounds to disable equipment and light armor. Specialist weapon—big punch, big recoil, limited ammo. |
-| VERY HEAVY MACHINE GUN BLACKTUSK XG-91   | <img src="https://i.postimg.cc/9fJgHHkX/VERY-HEAVY-MACHINE-GUN-BLACKTUSK-XG-91.jpg"> | .50-class heavy machine gun for long-range interdiction and vehicle disabling. Requires mount and crew; widely used where stopping power is critical. |
-| ROTARY CANNON GAU-3 “CYCLOPS”            | <img src="https://i.postimg.cc/SKD1bbPy/ROTARY-CANNON-GAU-3-CYCLOPS.jpg"> | High-rate rotary cannon for vehicle and air mounts; enormous volume of fire for suppression or anti-light-armour work. Power-hungry and logistics intensive but tactically decisive. |
+| H.C.A.C (Heavy Caliber Assault Cannon)   | <img src="https://i.postimg.cc/VNDZPPhf/H-C-A-C-Heavy-Caliber-Assault-Cannon.jpg" alt="A Heavy Weapon"> | Large-caliber heavy machine/assault cannon for anti-material roles. Vehicle or fixed mount; long range and tremendous terminal effect. |
+| ANTI-MATERIAL RIFLE K.A.C. “REAPER”      | <img src="https://i.postimg.cc/xdtpVVZ9/ANTI-MATERIAL-RIFLE-K-A-C-REAPER.jpg" alt="A Heavy Weapon"> | Semi-automatic anti-material rifle firing heavy sabot rounds to disable equipment and light armor. Specialist weapon—big punch, big recoil, limited ammo. |
+| VERY HEAVY MACHINE GUN BLACKTUSK XG-91   | <img src="https://i.postimg.cc/9fJgHHkX/VERY-HEAVY-MACHINE-GUN-BLACKTUSK-XG-91.jpg" alt="A Heavy Weapon"> | .50-class heavy machine gun for long-range interdiction and vehicle disabling. Requires mount and crew; widely used where stopping power is critical. |
+| ROTARY CANNON GAU-3 “CYCLOPS”            | <img src="https://i.postimg.cc/SKD1bbPy/ROTARY-CANNON-GAU-3-CYCLOPS.jpg" alt="A Heavy Weapon"> | High-rate rotary cannon for vehicle and air mounts; enormous volume of fire for suppression or anti-light-armour work. Power-hungry and logistics intensive but tactically decisive. |
 
 </div>
