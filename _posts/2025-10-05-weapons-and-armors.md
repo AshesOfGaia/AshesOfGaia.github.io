@@ -1,6 +1,6 @@
 ---
-title: Weapon and Armor Tables
-description: List of all available weapons and armors
+title: Weapons Table
+description: List of all available weapons
 date: 2025-10-07 20:00:00 +0600
 categories: [Core Rules, Equipment]
 tags: [combat, equipment, weapons]
