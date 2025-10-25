@@ -168,8 +168,8 @@ Energy weapons are prized for their pinpoint accuracy, minimal recoil, and clean
 |          Name          |     Damage    | Damage Type | Range | Impale | 1H/2H |  Reload   |            ROF             |     Mag     |  Jam   | Weight | Price |                             Qualities                                |
 | :--------------------: | :-----------: | :---------: | :---: | :----: | :---: | :-------: | :------------------------: | :---------: | :----: | :----: | :---: | :------------------------------------------------------------------: |
 |    LASER PISTOL "BEE"  |   2D8 / 2d6   |   Energy    |  50m  |   No   |  1H   | 1 Action  |      1 (0) / --- / ---     | 30 Charges  |  100   |   5    | 300cr |        Instant Hit / Advanced / Dispersion / Suprise Hitter          |
-|  Revolver Striker 404  | 2D8+1 / 2D6+1 |   Energy    |  65m  |   No   |  1H   | 1 Action  |      1 (0) / --- / ---     | 30 Charges  |  100   |   4    | 360cr |        Instant Hit / Advanced / Dispersion / Suprise Hitter          |
-|    Pistol Harris P8    |   2D6 / 2D4   |   Energy    |  40m  |   No   |  1H   | 1 Action  |     --- / 2 (+10) / ---    | 40 Charges  |  100   |   3    | 250cr |   Instant Hit / Advanced / Dispersion / Concealable / Suprise Hitter |
+|  LASER PISTOL "WASP"  | 2D8+1 / 2D6+1 |   Energy    |  65m  |   No   |  1H   | 1 Action  |      1 (0) / --- / ---     | 30 Charges  |  100   |   4    | 360cr |        Instant Hit / Advanced / Dispersion / Suprise Hitter          |
+|    LASER PISTOL "MIDGE"    |   2D6 / 2D4   |   Energy    |  40m  |   No   |  1H   | 1 Action  |     --- / 2 (+10) / ---    | 40 Charges  |  100   |   3    | 250cr |   Instant Hit / Advanced / Dispersion / Concealable / Suprise Hitter |
 
 ### Small Arms - Submachine
 
