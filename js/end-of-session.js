@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     5: 'TACTICIAN',
   };
 
-  const players = ['prince', 'pikacz', 'puniek', 'bjodro', 'AZZI', 'vakher'];
+  const players = ['prince', 'pikacz', 'puniek', 'bjodro', 'AZZINETH', 'vakher'];
   const archetypes = Object.values(archetypeMap);
   const checkboxes = document.querySelectorAll('input[type="checkbox"]');
   const clearButtons = document.querySelectorAll('.clear-all-btn');
