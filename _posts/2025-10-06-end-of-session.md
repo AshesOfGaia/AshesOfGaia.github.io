@@ -87,7 +87,7 @@ At the end of each game session, the players and the Game Master move on to dist
         <div class="rotated-text">BJODRO</div>
       </th>
       <th class="player-name">
-        <div class="rotated-text">AZZINETH</div>
+        <div class="rotated-text">AZZI</div>
       </th>
       <th class="player-name">
         <div class="rotated-text">VAKHER</div>
@@ -116,7 +116,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <th data-player="pikacz" data-archetype="ROLEPLAYER"> 0 </th>
 <!--      <th data-player="puniek" data-archetype="ROLEPLAYER"> 0 </th> -->
       <th data-player="bjodro" data-archetype="ROLEPLAYER"> 0 </th>
-      <th data-player="azzineth" data-archetype="ROLEPLAYER"> 0 </th>
+      <th data-player="AZZI" data-archetype="ROLEPLAYER"> 0 </th>
       <th data-player="vakher" data-archetype="ROLEPLAYER"> 0 </th>
     </tr>
     <tr>
@@ -126,7 +126,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_1_1"> </td>
 <!--      <td> <input type="checkbox" id="puniek_1_1"> </td> -->
       <td> <input type="checkbox" id="bjodro_1_1"> </td>
-      <td> <input type="checkbox" id="azzineth_1_1"> </td>
+      <td> <input type="checkbox" id="AZZI_1_1"> </td>
       <td> <input type="checkbox" id="vakher_1_1"> </td>
     </tr>
     <tr>
@@ -136,7 +136,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_1_2"> </td>
 <!--      <td> <input type="checkbox" id="puniek_1_2"> </td> -->
       <td> <input type="checkbox" id="bjodro_1_2"> </td>
-      <td> <input type="checkbox" id="azzineth_1_2"> </td>
+      <td> <input type="checkbox" id="AZZI_1_2"> </td>
       <td> <input type="checkbox" id="vakher_1_2"> </td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_1_3"> </td>
 <!--      <td> <input type="checkbox" id="puniek_1_3"> </td> -->
       <td> <input type="checkbox" id="bjodro_1_3"> </td>
-      <td> <input type="checkbox" id="azzineth_1_3"> </td>
+      <td> <input type="checkbox" id="AZZI_1_3"> </td>
       <td> <input type="checkbox" id="vakher_1_3"> </td>
     </tr>
     <tr>
@@ -156,7 +156,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_1_4"> </td>
 <!--      <td> <input type="checkbox" id="puniek_1_4"> </td> -->
       <td> <input type="checkbox" id="bjodro_1_4"> </td>
-      <td> <input type="checkbox" id="azzineth_1_4"> </td>
+      <td> <input type="checkbox" id="AZZI_1_4"> </td>
       <td> <input type="checkbox" id="vakher_1_4"> </td>
     </tr>
     <tr>
@@ -166,7 +166,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_1_5"> </td>
 <!--      <td> <input type="checkbox" id="puniek_1_5"> </td> -->
       <td> <input type="checkbox" id="bjodro_1_5"> </td>
-      <td> <input type="checkbox" id="azzineth_1_5"> </td>
+      <td> <input type="checkbox" id="AZZI_1_5"> </td>
       <td> <input type="checkbox" id="vakher_1_5"> </td>
     </tr>
   </tbody>
@@ -188,7 +188,7 @@ At the end of each game session, the players and the Game Master move on to dist
         <div class="rotated-text">BJODRO</div>
       </th>
       <th class="player-name">
-        <div class="rotated-text">azzineth</div>
+        <div class="rotated-text">AZZI</div>
       </th>
       <th class="player-name">
         <div class="rotated-text">VAKHER</div>
@@ -217,7 +217,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <th data-player="pikacz" data-archetype="WARRIOR"> 0 </th>
 <!--      <th data-player="puniek" data-archetype="WARRIOR"> 0 </th> -->
       <th data-player="bjodro" data-archetype="WARRIOR"> 0 </th>
-      <th data-player="azzineth" data-archetype="WARRIOR"> 0 </th>
+      <th data-player="AZZI" data-archetype="WARRIOR"> 0 </th>
       <th data-player="vakher" data-archetype="WARRIOR"> 0 </th>
     </tr>
     <tr>
@@ -227,7 +227,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_2_1"> </td>
 <!--      <td> <input type="checkbox" id="puniek_2_1"> </td> -->
       <td> <input type="checkbox" id="bjodro_2_1"> </td>
-      <td> <input type="checkbox" id="azzineth_2_1"> </td>
+      <td> <input type="checkbox" id="AZZI_2_1"> </td>
       <td> <input type="checkbox" id="vakher_2_1"> </td>
     </tr>
     <tr>
@@ -237,7 +237,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_2_2"> </td>
 <!--      <td> <input type="checkbox" id="puniek_2_2"> </td>-->
       <td> <input type="checkbox" id="bjodro_2_2"> </td>
-      <td> <input type="checkbox" id="azzineth_2_2"> </td>
+      <td> <input type="checkbox" id="AZZI_2_2"> </td>
       <td> <input type="checkbox" id="vakher_2_2"> </td>
     </tr>
     <tr>
@@ -247,7 +247,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_2_3"> </td>
 <!--      <td> <input type="checkbox" id="puniek_2_3"> </td>-->
       <td> <input type="checkbox" id="bjodro_2_3"> </td>
-      <td> <input type="checkbox" id="azzineth_2_3"> </td>
+      <td> <input type="checkbox" id="AZZI_2_3"> </td>
       <td> <input type="checkbox" id="vakher_2_3"> </td>
     </tr>
     <tr>
@@ -257,7 +257,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_2_4"> </td>
 <!--      <td> <input type="checkbox" id="puniek_2_4"> </td>-->
       <td> <input type="checkbox" id="bjodro_2_4"> </td>
-      <td> <input type="checkbox" id="azzineth_2_4"> </td>
+      <td> <input type="checkbox" id="AZZI_2_4"> </td>
       <td> <input type="checkbox" id="vakher_2_4"> </td>
     </tr>
     <tr>
@@ -267,7 +267,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_2_5"> </td>
 <!--      <td> <input type="checkbox" id="puniek_2_5"> </td> -->
       <td> <input type="checkbox" id="bjodro_2_5"> </td>
-      <td> <input type="checkbox" id="azzineth_2_5"> </td>
+      <td> <input type="checkbox" id="AZZI_2_5"> </td>
       <td> <input type="checkbox" id="vakher_2_5"> </td>
     </tr>
   </tbody>
@@ -289,7 +289,7 @@ At the end of each game session, the players and the Game Master move on to dist
         <div class="rotated-text">BJODRO</div>
       </th>
       <th class="player-name">
-        <div class="rotated-text">azzineth</div>
+        <div class="rotated-text">AZZI</div>
       </th>
       <th class="player-name">
         <div class="rotated-text">VAKHER</div>
@@ -318,7 +318,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <th data-player="pikacz" data-archetype="EXPLORER"> 0 </th>
 <!--      <th data-player="puniek" data-archetype="EXPLORER"> 0 </th>-->
       <th data-player="bjodro" data-archetype="EXPLORER"> 0 </th>
-      <th data-player="azzineth" data-archetype="EXPLORER"> 0 </th>
+      <th data-player="AZZI" data-archetype="EXPLORER"> 0 </th>
       <th data-player="vakher" data-archetype="EXPLORER"> 0 </th>
     </tr>
     <tr>
@@ -328,7 +328,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_3_1"> </td>
 <!--      <td> <input type="checkbox" id="puniek_3_1"> </td>-->
       <td> <input type="checkbox" id="bjodro_3_1"> </td>
-      <td> <input type="checkbox" id="azzineth_3_1"> </td>
+      <td> <input type="checkbox" id="AZZI_3_1"> </td>
       <td> <input type="checkbox" id="vakher_3_1"> </td>
     </tr>
     <tr>
@@ -338,7 +338,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_3_2"> </td>
 <!--      <td> <input type="checkbox" id="puniek_3_2"> </td>-->
       <td> <input type="checkbox" id="bjodro_3_2"> </td>
-      <td> <input type="checkbox" id="azzineth_3_2"> </td>
+      <td> <input type="checkbox" id="AZZI_3_2"> </td>
       <td> <input type="checkbox" id="vakher_3_2"> </td>
     </tr>
     <tr>
@@ -348,7 +348,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_3_3"> </td>
 <!--      <td> <input type="checkbox" id="puniek_3_3"> </td>-->
       <td> <input type="checkbox" id="bjodro_3_3"> </td>
-      <td> <input type="checkbox" id="azzineth_3_3"> </td>
+      <td> <input type="checkbox" id="AZZI_3_3"> </td>
       <td> <input type="checkbox" id="vakher_3_3"> </td>
     </tr>
     <tr>
@@ -358,7 +358,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_3_4"> </td>
 <!--      <td> <input type="checkbox" id="puniek_3_4"> </td>-->
       <td> <input type="checkbox" id="bjodro_3_4"> </td>
-      <td> <input type="checkbox" id="azzineth_3_4"> </td>
+      <td> <input type="checkbox" id="AZZI_3_4"> </td>
       <td> <input type="checkbox" id="vakher_3_4"> </td>
     </tr>
     <tr>
@@ -368,7 +368,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_3_5"> </td>
 <!--      <td> <input type="checkbox" id="puniek_3_5"> </td> -->
       <td> <input type="checkbox" id="bjodro_3_5"> </td>
-      <td> <input type="checkbox" id="azzineth_3_5"> </td>
+      <td> <input type="checkbox" id="AZZI_3_5"> </td>
       <td> <input type="checkbox" id="vakher_3_5"> </td>
     </tr>
   </tbody>
@@ -390,7 +390,7 @@ At the end of each game session, the players and the Game Master move on to dist
         <div class="rotated-text">BJODRO</div>
       </th>
       <th class="player-name">
-        <div class="rotated-text">azzineth</div>
+        <div class="rotated-text">AZZI</div>
       </th>
       <th class="player-name">
         <div class="rotated-text">VAKHER</div>
@@ -419,7 +419,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <th data-player="pikacz" data-archetype="STORYTELLER"> 0 </th>
 <!--      <th data-player="puniek" data-archetype="STORYTELLER"> 0 </th>-->
       <th data-player="bjodro" data-archetype="STORYTELLER"> 0 </th>
-      <th data-player="azzineth" data-archetype="STORYTELLER"> 0 </th>
+      <th data-player="AZZI" data-archetype="STORYTELLER"> 0 </th>
       <th data-player="vakher" data-archetype="STORYTELLER"> 0 </th>
     </tr>
     <tr>
@@ -429,7 +429,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_4_1"> </td>
 <!--      <td> <input type="checkbox" id="puniek_4_1"> </td>-->
       <td> <input type="checkbox" id="bjodro_4_1"> </td>
-      <td> <input type="checkbox" id="azzineth_4_1"> </td>
+      <td> <input type="checkbox" id="AZZI_4_1"> </td>
       <td> <input type="checkbox" id="vakher_4_1"> </td>
     </tr>
     <tr>
@@ -439,7 +439,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_4_2"> </td>
 <!--      <td> <input type="checkbox" id="puniek_4_2"> </td>-->
       <td> <input type="checkbox" id="bjodro_4_2"> </td>
-      <td> <input type="checkbox" id="azzineth_4_2"> </td>
+      <td> <input type="checkbox" id="AZZI_4_2"> </td>
       <td> <input type="checkbox" id="vakher_4_2"> </td>
     </tr>
     <tr>
@@ -449,7 +449,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_4_3"> </td>
 <!--      <td> <input type="checkbox" id="puniek_4_3"> </td>-->
       <td> <input type="checkbox" id="bjodro_4_3"> </td>
-      <td> <input type="checkbox" id="azzineth_4_3"> </td>
+      <td> <input type="checkbox" id="AZZI_4_3"> </td>
       <td> <input type="checkbox" id="vakher_4_3"> </td>
     </tr>
     <tr>
@@ -459,7 +459,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_4_4"> </td>
 <!--      <td> <input type="checkbox" id="puniek_4_4"> </td>-->
       <td> <input type="checkbox" id="bjodro_4_4"> </td>
-      <td> <input type="checkbox" id="azzineth_4_4"> </td>
+      <td> <input type="checkbox" id="AZZI_4_4"> </td>
       <td> <input type="checkbox" id="vakher_4_4"> </td>
     </tr>
     <tr>
@@ -469,7 +469,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_4_5"> </td>
 <!--      <td> <input type="checkbox" id="puniek_4_5"> </td>-->
       <td> <input type="checkbox" id="bjodro_4_5"> </td>
-      <td> <input type="checkbox" id="azzineth_4_5"> </td>
+      <td> <input type="checkbox" id="AZZI_4_5"> </td>
       <td> <input type="checkbox" id="vakher_4_5"> </td>
     </tr>
   </tbody>
@@ -491,7 +491,7 @@ At the end of each game session, the players and the Game Master move on to dist
         <div class="rotated-text">BJODRO</div>
       </th>
       <th class="player-name">
-        <div class="rotated-text">azzineth</div>
+        <div class="rotated-text">AZZI</div>
       </th>
       <th class="player-name">
         <div class="rotated-text">VAKHER</div>
@@ -520,7 +520,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <th data-player="pikacz" data-archetype="TACTICIAN"> 0 </th>
 <!--      <th data-player="puniek" data-archetype="TACTICIAN"> 0 </th> -->
       <th data-player="bjodro" data-archetype="TACTICIAN"> 0 </th>
-      <th data-player="azzineth" data-archetype="TACTICIAN"> 0 </th>
+      <th data-player="AZZI" data-archetype="TACTICIAN"> 0 </th>
       <th data-player="vakher" data-archetype="TACTICIAN"> 0 </th>
     </tr>
     <tr>
@@ -530,7 +530,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_5_1"> </td>
 <!--      <td> <input type="checkbox" id="puniek_5_1"> </td> -->
       <td> <input type="checkbox" id="bjodro_5_1"> </td>
-      <td> <input type="checkbox" id="azzineth_5_1"> </td>
+      <td> <input type="checkbox" id="AZZI_5_1"> </td>
       <td> <input type="checkbox" id="vakher_5_1"> </td>
     </tr>
     <tr>
@@ -540,7 +540,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_5_2"> </td>
 <!--      <td> <input type="checkbox" id="puniek_5_2"> </td> -->
       <td> <input type="checkbox" id="bjodro_5_2"> </td>
-      <td> <input type="checkbox" id="azzineth_5_2"> </td>
+      <td> <input type="checkbox" id="AZZI_5_2"> </td>
       <td> <input type="checkbox" id="vakher_5_2"> </td>
     </tr>
     <tr>
@@ -550,7 +550,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_5_3"> </td>
 <!--      <td> <input type="checkbox" id="puniek_5_3"> </td> -->
       <td> <input type="checkbox" id="bjodro_5_3"> </td>
-      <td> <input type="checkbox" id="azzineth_5_3"> </td>
+      <td> <input type="checkbox" id="AZZI_5_3"> </td>
       <td> <input type="checkbox" id="vakher_5_3"> </td>
     </tr>
     <tr>
@@ -560,7 +560,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_5_4"> </td>
 <!--      <td> <input type="checkbox" id="puniek_5_4"> </td> -->
       <td> <input type="checkbox" id="bjodro_5_4"> </td>
-      <td> <input type="checkbox" id="azzineth_5_4"> </td>
+      <td> <input type="checkbox" id="AZZI_5_4"> </td>
       <td> <input type="checkbox" id="vakher_5_4"> </td>
     </tr>
     <tr>
@@ -570,7 +570,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td> <input type="checkbox" id="pikacz_5_5"> </td>
 <!--      <td> <input type="checkbox" id="puniek_5_5"> </td> -->
       <td> <input type="checkbox" id="bjodro_5_5"> </td>
-      <td> <input type="checkbox" id="azzineth_5_5"> </td>
+      <td> <input type="checkbox" id="AZZI_5_5"> </td>
       <td> <input type="checkbox" id="vakher_5_5"> </td>
     </tr>
   </tbody>
@@ -586,7 +586,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <th> PIKACZ </th>
 <!--      <th> PUNIEK </th> -->
       <th> BJODRO </th>
-      <th> azzineth </th>
+      <th> AZZI </th>
       <th> VAKHER </th>
     </tr>
   </thead>
@@ -597,7 +597,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td data-player="pikacz" data-archetype="ROLEPLAYER"> 0 </td>
 <!--      <td data-player="puniek" data-archetype="ROLEPLAYER"> 0 </td> -->
       <td data-player="bjodro" data-archetype="ROLEPLAYER"> 0 </td>
-      <td data-player="azzineth" data-archetype="ROLEPLAYER"> 0 </td>
+      <td data-player="AZZI" data-archetype="ROLEPLAYER"> 0 </td>
       <td data-player="vakher" data-archetype="ROLEPLAYER"> 0 </td>
     </tr>
     <tr>
@@ -606,7 +606,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td data-player="pikacz" data-archetype="WARRIOR"> 0 </td>
 <!--      <td data-player="puniek" data-archetype="WARRIOR"> 0 </td> -->
       <td data-player="bjodro" data-archetype="WARRIOR"> 0 </td>
-      <td data-player="azzineth" data-archetype="WARRIOR"> 0 </td>
+      <td data-player="AZZI" data-archetype="WARRIOR"> 0 </td>
       <td data-player="vakher" data-archetype="WARRIOR"> 0 </td>
     </tr>
     <tr>
@@ -615,7 +615,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td data-player="pikacz" data-archetype="EXPLORER"> 0 </td>
 <!--      <td data-player="puniek" data-archetype="EXPLORER"> 0 </td> -->
       <td data-player="bjodro" data-archetype="EXPLORER"> 0 </td>
-      <td data-player="azzineth" data-archetype="EXPLORER"> 0 </td>
+      <td data-player="AZZI" data-archetype="EXPLORER"> 0 </td>
       <td data-player="vakher" data-archetype="EXPLORER"> 0 </td>
     </tr>
     <tr>
@@ -624,7 +624,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td data-player="pikacz" data-archetype="STORYTELLER"> 0 </td>
 <!--      <td data-player="puniek" data-archetype="STORYTELLER"> 0 </td> -->
       <td data-player="bjodro" data-archetype="STORYTELLER"> 0 </td>
-      <td data-player="azzineth" data-archetype="STORYTELLER"> 0 </td>
+      <td data-player="AZZI" data-archetype="STORYTELLER"> 0 </td>
       <td data-player="vakher" data-archetype="STORYTELLER"> 0 </td>
     </tr>
     <tr>
@@ -633,7 +633,7 @@ At the end of each game session, the players and the Game Master move on to dist
       <td data-player="pikacz" data-archetype="TACTICIAN"> 0 </td>
 <!--      <td data-player="puniek" data-archetype="TACTICIAN"> 0 </td> -->
       <td data-player="bjodro" data-archetype="TACTICIAN"> 0 </td>
-      <td data-player="azzineth" data-archetype="TACTICIAN"> 0 </td>
+      <td data-player="AZZI" data-archetype="TACTICIAN"> 0 </td>
       <td data-player="vakher" data-archetype="TACTICIAN"> 0 </td>
     </tr>
   </tbody>
